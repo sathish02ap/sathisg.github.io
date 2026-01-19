@@ -1,0 +1,2765 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-77c05f03e372c4a6","indeed","https://in.indeed.com/viewjob?jk=77c05f03e372c4a6","https://careers.synopsys.com/job/-/-/44408/90643674992","ASIC Digital Design, Staff Engineer","Synopsys","KA, IN","2026-01-16","","","","","","",False,"","","","","### **We Are:**
+
+
+At Synopsys, we drive the innovations that shape the way we live and connect. Our technology is central to the Era of Pervasive Intelligence, from self\\-driving cars to learning machines. We lead in chip design, verification, and IP integration, empowering the creation of high\\-performance silicon chips and software content. Join us to transform the future through continuous technological innovation.
+
+
+As a global leader in semiconductor design and verification solutions, we enable the world’s most advanced technology companies to deliver cutting\\-edge SoCs and systems. Our mission is to accelerate innovation through state\\-of\\-the\\-art verification IP, methodologies, and strategic consulting. Join us to shape the future of Test and SLM (Silicon Lifecycle Monitors) architectures, high\\-performance computing, and next\\-generation connectivity standards.
+
+### **You Are:**
+
+
+You are a passionate and analytical engineer with a proven track record in digital design and verification, ready to embrace the challenge of developing advanced embedded memory test and SLM architectures. You thrive in dynamic, collaborative environments where your technical expertise and innovative mindset can drive significant impact. Your experience spans RTL logic design, functional verification, and automation at both block and SoC levels, and you are eager to apply your skills to industry\\-leading protocols such as IEEE1500, IEEE1687, and AMBA standards.
+
+
+You are detail\\-oriented, always seeking to ensure design integrity and optimal performance through rigorous validation, debugging, and synthesis. Your hands\\-on approach extends to scripting and automation, enhancing productivity and accelerating development cycles. You communicate effectively with cross\\-functional teams, translating complex technical concepts for diverse stakeholders, and you enjoy mentoring and guiding others to achieve shared goals. Your motivation comes from building robust, scalable solutions that enable global technology leaders to innovate at the highest level.
+
+
+With a growth mindset, you are constantly learning—exploring new methodologies, tools, and industry trends. You are proactive, adaptable, and always willing to step up when challenges arise. Your commitment to excellence, customer\\-centric attitude, and enthusiasm for continuous improvement make you a valuable contributor to any high\\-performing engineering team.
+
+### **What You’ll Be Doing:**
+
+* Developing and modeling RTL logic in Verilog for embedded memory test and SLM IP blocks.
+* Performing digital design validation and functional verification at both block and SoC levels.
+* Executing logic synthesis, static timing analysis, and generating fault coverage reports to ensure robust designs.
+* Applying DFT (Design\\-for\\-Test) expertise for comprehensive memory and logic testing.
+* Identifying and troubleshooting design timing and DFT functional issues to optimize chip performance.
+* Utilizing and scripting in languages such as Tcl to automate design and verification workflows.
+* Defining architecture, logic, test bench designs, and embedded software functions for advanced test and analytics.
+* Developing and maintaining technical collateral including test suites, protocol documentation, and debug guides.
+* Collaborating with R\\&D and marketing teams to define new features, drive enhancements, and align product roadmaps.
+* Delivering product training, managing customer support cases, and ensuring turnaround time (TAT) metrics are met or exceeded.
+
+### **The Impact You Will Have:**
+
+* Accelerate the delivery of reliable, high\\-performance SoCs for industry\\-leading technology companies.
+* Shape the evolution of embedded memory test and SLM architectures that power next\\-generation devices.
+* Drive innovation in simulation, emulation, and verification methodologies for advanced semiconductor products.
+* Enhance customer satisfaction by delivering robust, easy\\-to\\-use IP and responsive technical support.
+* Contribute to the continuous improvement of Synopsys’ design and verification solutions, setting new industry benchmarks.
+* Mentor and elevate team capabilities, fostering a culture of excellence, knowledge sharing, and mutual growth.
+* Influence the adoption of best practices in DFT, protocol compliance, and subsystem integration across the organization.
+* Support strategic decision\\-making by providing technical insights and market\\-driven recommendations.
+
+### **What You’ll Need:**
+
+* 3\\-5 years of relevant experience in ASIC digital design and verification.
+* Proficiency in RTL simulation, logic synthesis, and timing verification tools.
+* Deep expertise in UVM, SystemVerilog, and protocol verification (e.g., IEEE1500, IEEE1687, AXI, AMBA).
+* Hands\\-on experience with VIPs and transactors in simulation and emulation environments.
+* Strong understanding of DFT architectures, interconnects, and cache coherency protocols.
+* Familiarity with debug tools such as Verdi and workflows for performance analysis.
+* Programming skills in SystemVerilog, UVM, Verilog, C/C\\+\\+, Python, and scripting languages like Tcl.
+* Experience with EDA tools such as VCS, Verdi, and DC, and methodologies including VC Auto\\-Testbench and protocol compliance checking.
+
+### **Who You Are:**
+
+* Analytical thinker with exceptional problem\\-solving skills.
+* Effective communicator, able to collaborate across disciplines and with external partners.
+* Proactive, self\\-motivated, and adaptable in fast\\-paced environments.
+* Committed to quality, detail, and continuous learning.
+* Team player who values diversity, inclusion, and mentorship.
+* Customer\\-focused, dedicated to delivering timely and effective solutions.
+
+### **The Team You’ll Be A Part Of:**
+
+
+You’ll join a highly collaborative and innovative team of digital design and verification experts, working at the forefront of embedded memory test and SLM architecture development. The team bridges R\\&D, marketing, and customer engagement, driving the roadmap for advanced SoC solutions. With a culture of knowledge sharing, technical excellence, and mutual support, you’ll thrive in an environment that values creativity, initiative, and a shared commitment to shaping the future of semiconductor technology.
+
+### **Rewards and Benefits:**
+
+
+We offer a comprehensive range of health, wellness, and financial benefits to cater to your needs. Our total rewards include both monetary and non\\-monetary offerings. Your recruiter will provide more details about the salary range and benefits during the hiring process.","","https://in.indeed.com/cmp/Synopsys","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7531f895f1e40aa308767f32255b6a69","https://www.synopsys.com/","Mountain View, CA","10,000+","Decline to state","Synopsys is a valued partner for silicon to systems design across a wide range of vertical markets, empowering technology innovators with the industry’s most comprehensive and trusted solutions.","","","","","",""
+"in-7adea1902dfd158b","indeed","https://in.indeed.com/viewjob?jk=7adea1902dfd158b","https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/57426","Identity Security Engineer","Ford Motor Company","TN, IN","2026-01-16","fulltime","","","","","",False,"","","","","The position requires someone capable of managing sophisticated technical details and who is proficient across multiple disciplines (planning, requirements gathering and validation, system design, development, operations, and configuration). Due to the global nature of the enterprise directory data management services and Azure Active Directory system, this position provides the outstanding opportunity to engage with multiple business teams, joint ventures, and different Ford IT organizations (Office of the CIO/Strategy, IT Operations, Application Development, and Enterprise Connectivity etc.).
+
+
+  
+* Bachelor's degree in Computer Science, Information Technology, Electrical Engineering, or a closely related field of study
+* 4\\+ years of IT experience
+
+  
+* Software Design: The role requires designing secure and scalable Identity and Access Management (IAM) solutions. This includes architecting custom systems, designing secure APIs, and defining data models to protect user identities and access policies.
+* Identity \\& Access Management (Microsoft Entra ID): Design, implement, and manage identity solutions using Microsoft Entra ID, including user lifecycle management, group memberships, and Administrative Units, configure and maintain security features such as Multi\\-Factor Authentication (MFA), Passwordless authentication, and Entra ID Protection. Develop and enforce Conditional Access policies to ensure secure, least\\-privilege access to corporate resources.
+* Programming/Coding (e.g., Python): The candidate must utilize programming skills to develop and automate security tools and platforms. Responsibilities include coding custom IAM solutions, building secure APIs, and implementing the core logic for password management applications.
+* Operating Systems: A deep understanding of operating systems (e.g., Linux, Windows) is needed to harden and secure the underlying infrastructure. This involves configuring OS\\-level security controls and ensuring the secure deployment of IAM platforms.
+* CI/CD Pipeline Management (e.g., Jenkins, GitHub): The position involves managing and securing CI/CD pipelines. The candidate will integrate automated security testing into the development lifecycle to ensure code is secure from development to deployment (DevSecOps).
+* Version Control (e.g., GitHub): The candidate will use version control systems to manage codebase changes for security applications and enforce best practices like code reviews and branch protection to maintain code integrity.
+* Cloud Computing (e.g., Azure): The role requires leveraging cloud platforms like Azure to build, deploy, and manage secure IAM solutions. Experience should include configuring cloud identity services (e.g., Azure AD) and managing cloud infrastructure security.
+* Databases (e.g., SQL, MongoDB): The candidate must have experience with various databases to securely store and manage sensitive user identity and access data. Responsibilities include designing secure database schemas and protecting encrypted user credentials.
+* Responsible for enterprise identity provisioning and enterprise directory and Azure Active directory data management in the Security Service Department.
+* Provide critical 7x24 support of Enterprise Identity \\& Access Management
+* Release engineering, provisioning and maintenance of infrastructure, system administration and security.
+* Incident, Knowledge, Problem, JIRA and Change Management
+* Maintain \\& test DR document, and perform backup and disaster recovery procedures
+* Maintain documentation of all Operations administrative processes, procedures, and configurations.
+* Interact with team members to improve tools, technology stack, and application performance and stability.
+* Resolve operational concerns through collaboration with customers, engineering SMEs, and product vendors.
+* Propose, configure, and implement enterprise solutions (covering both process and technical aspects) according to established standards and best practices
+* Lead the design, implementation, integration, and maintenance of software, technical infrastructure, and services (all aspects of the technology lifecycle)
+* Develop implementation requirements for technical infrastructure and services
+* Develops project charters and/or project requirements (cost, timing, scope, contingency, and risks)
+* Develop support and deployment plans for technical infrastructure and services
+* Automate server related maintenance tasks
+* Collaborate closely with customers, engineering SMEs, and product vendors to resolve issues.
+* Deploy product updates, identifying production issues and implementing integrations that meet customer needs.","","https://in.indeed.com/cmp/Ford-Motor-Company","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e28111d34815ea9cb25cc63bf2e437e1","http://corporate.ford.com","Dearborn, MI","10,000+","more than $10B (USD)","We don't just make history -- we make the future. We believe in serving our customers, our communities, and the world. If you do, too, come move the world and make the future with us.","","","","","",""
+"in-7e625c90df62593c","indeed","https://in.indeed.com/viewjob?jk=7e625c90df62593c","https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/57437","Identity Security Engineer","Ford Motor Company","TN, IN","2026-01-16","fulltime","","","","","",False,"","","","","The position requires someone capable of managing sophisticated technical details and who is proficient across multiple disciplines (planning, requirements gathering and validation, system design, development, operations, and configuration). Due to the global nature of the enterprise directory data management services and Azure Active Directory system, this position provides the outstanding opportunity to engage with multiple business teams, joint ventures, and different Ford IT organizations (Office of the CIO/Strategy, IT Operations, Application Development, and Enterprise Connectivity etc.).
+
+
+  
+* Bachelor's degree in Computer Science, Information Technology, Electrical Engineering, or a closely related field of study
+* 4\\+ years of IT experience
+
+  
+* Software Design: The role requires designing secure and scalable Identity and Access Management (IAM) solutions. This includes architecting custom systems, designing secure APIs, and defining data models to protect user identities and access policies.
+* Identity \\& Access Management (Microsoft Entra ID): Design, implement, and manage identity solutions using Microsoft Entra ID, including user lifecycle management, group memberships, and Administrative Units, configure and maintain security features such as Multi\\-Factor Authentication (MFA), Passwordless authentication, and Entra ID Protection. Develop and enforce Conditional Access policies to ensure secure, least privileged access to corporate resources.
+* Programming/Coding (e.g., .NET): The candidate must utilize programming skills to develop and automate security tools and platforms. Responsibilities include coding custom IAM solutions, building secure APIs, and implementing the core logic for password management applications.
+* Operating Systems: A deep understanding of operating systems (e.g., Linux, Windows) is needed to harden and secure the underlying infrastructure. This involves configuring OS\\-level security controls and ensuring the secure deployment of IAM platforms.
+* CI/CD Pipeline Management (e.g., Jenkins, GitHub): The position involves managing and securing CI/CD pipelines. The candidate will integrate automated security testing into the development lifecycle to ensure code is secure from development to deployment (DevSecOps).
+* Version Control (e.g., GitHub): The candidate will use version control systems to manage codebase changes for security applications and enforce best practices like code reviews and branch protection to maintain code integrity.
+* Cloud Computing (e.g., Azure): The role requires leveraging cloud platforms like Azure to build, deploy, and manage secure IAM solutions. Experience should include configuring cloud identity services (e.g., Azure AD) and managing cloud infrastructure security.
+* Databases (e.g., SQL, MongoDB): The candidate must have experience with various databases to securely store and manage sensitive user identity and access data. Responsibilities include designing secure database schemas and protecting encrypted user credentials.
+* Responsible for enterprise identity provisioning and enterprise directory and Azure Active directory data management in the Security Service Department.
+* Provide critical 7x24 support of Enterprise Identity \\& Access Management
+* Release engineering, provisioning and maintenance of infrastructure, system administration and security.
+* Incident, Knowledge, Problem, JIRA and Change Management
+* Maintain \\& test DR document, and perform backup and disaster recovery procedures
+* Maintain documentation of all Operations administrative processes, procedures, and configurations.
+* Interact with team members to improve tools, technology stack, and application performance and stability.
+* Resolve operational concerns through collaboration with customers, engineering SMEs, and product vendors.
+* Propose, configure, and implement enterprise solutions (covering both process and technical aspects) according to established standards and best practices
+* Lead the design, implementation, integration, and maintenance of software, technical infrastructure, and services (all aspects of the technology lifecycle)
+* Develop implementation requirements for technical infrastructure and services
+* Develops project charters and/or project requirements (cost, timing, scope, contingency, and risks)
+* Develop support and deployment plans for technical infrastructure and services
+* Automate server related maintenance tasks
+* Collaborate closely with customers, engineering SMEs, and product vendors to resolve issues.
+* Deploy product updates, identifying production issues and implementing integrations that meet customer needs.","","https://in.indeed.com/cmp/Ford-Motor-Company","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e28111d34815ea9cb25cc63bf2e437e1","http://corporate.ford.com","Dearborn, MI","10,000+","more than $10B (USD)","We don't just make history -- we make the future. We believe in serving our customers, our communities, and the world. If you do, too, come move the world and make the future with us.","","","","","",""
+"in-4b9a822ba861af5a","indeed","https://in.indeed.com/viewjob?jk=4b9a822ba861af5a","http://in.indeed.com/job/design-engineer-4b9a822ba861af5a","Design Engineer","U3S Engitech Pvt Ltd","Cuttack, OR, IN","2026-01-16","fulltime","","","","","",True,"","","","","**Job Title:** System Design Engineer – Lubrication Systems (Grease \\& Oil)
+
+**Product Line:** Centralized Lubrication Systems (Grease \\& Oil Based)
+
+**Experience:** Lubrication System Design Experience Required
+
+**Education:** Diploma / B.Tech in Mechanical Engineering
+
+**Job Locations (Posting):** Cuttack / Bhubaneswar
+
+**Work Mode:** Hybrid / Work From Home option available
+
+**Job Summary:**
+
+We are looking for a technically strong and detail\\-oriented System Design Engineer – Lubrication Systems with hands\\-on experience in designing grease and oil\\-based centralized lubrication systems. The role involves end\\-to\\-end system design including selection \\& sizing, preparation of engineering documentation, detailed BOM, test plans, and close coordination with production/assembly teams to ensure accurate execution.
+
+The ideal candidate should have excellent engineering fundamentals, strong documentation skills, and a practical understanding of how systems are assembled and commissioned in industrial environments.
+
+**Key Responsibilities**
+
+Lubrication System Design \\& Engineering
+
+Create complete engineering designs for grease and oil lubrication systems
+
+Understand application requirements (machine type, lubrication points, operating conditions) and propose system architecture
+
+**Perform system selection \\& sizing:**
+
+Pumps (grease/oil), injectors, distributors, metering valves
+
+Progressive systems / dual\\-line systems / single line systems (as applicable)
+
+Reservoir sizing, pressure calculation, flow requirement mapping
+
+**Design system layouts:**
+
+Piping/tubing routing, hose selection, fittings, manifolds
+
+Placement of components: pump station, junction blocks, injectors, pressure switches, sensors, etc.
+
+Documentation \\& Bill of Materials (BOM)
+
+Prepare complete Bill of Materials (BOM) with part numbers, quantities, and specifications
+
+Create/maintain design documents such as:
+
+System schematics (lubrication circuit diagrams)
+
+Layout drawings / isometric routing (as required)
+
+Line lists, component lists, specification sheets
+
+Installation drawings and scope sheets
+
+Testing, Validation \\& Quality Planning
+
+**Create test plans for assemblies/systems:**
+
+Functional testing, pressure tests, flow verification, and leak tests
+
+Pump performance verification and system response checks
+
+Support FAT (Factory Acceptance Testing) and documentation completion
+
+Define inspection checkpoints and ensure compliance with internal quality standards
+
+Production Coordination \\& Execution Support
+
+Coordinate closely with Production/Assembly teams to ensure correct interpretation and execution of designs
+
+Support troubleshooting during assembly/testing and implement design improvements if required
+
+Participate in technical discussions with vendors for component procurement and alternatives (if needed)
+
+Must\\-Have Requirements (Non\\-Negotiable)
+
+✅ Diploma/B.Tech in Mechanical Engineering
+
+✅ Experience in Lubrication System Design (Grease \\& Oil based)
+
+✅ Strong knowledge of lubrication components and system architecture
+
+✅ Ability to create structured technical documentation and BOMs
+
+✅ Good coordination skills with production and cross\\-functional teams
+
+Key Skills \\& Competencies
+
+Strong fundamentals in mechanical systems, fittings, tubing/piping, sealing concepts
+
+High attention to detail and documentation accuracy
+
+Practical understanding of manufacturing/assembly processes
+
+Proficient in:
+
+MS Excel (BOM preparation, costing sheets)
+
+MS Word (documentation)
+
+AutoCAD / Drafting tools (preferred)
+
+Understanding of industrial standards/practices for fittings, piping and installation
+
+Preferred Profile
+
+Hands\\-on design exposure to any of the following:
+
+Progressive lubrication systems
+
+Dual\\-line lubrication systems
+
+Oil circulation systems
+
+Single\\-line resistance systems
+
+Experience with industrial segments like:
+
+Steel plants, mining, aluminium, cement, power plants, heavy machinery
+
+Compensation
+
+Competitive salary as per experience \\+ growth opportunity in a specialized engineering domain.
+
+Job Types: Full\\-time, Permanent
+
+Pay: ₹35,000\\.00 \\- ₹50,000\\.00 per month
+
+Benefits:
+
+* Health insurance
+* Paid sick time
+* Paid time off
+* Provident Fund
+* Work from home
+
+Work Location: In person","","https://in.indeed.com/cmp/U3s-Engitech-Pvt-Ltd-1","","","","","","","","","","","",""
+"in-b9a0924f7b0fe8b1","indeed","https://in.indeed.com/viewjob?jk=b9a0924f7b0fe8b1","https://jobs.tkelevator.com/en/job/advert?nPostingTargetId=942400&id=Q8KFK026203F3VBQBLOLO8N66&LG=EN&languageSelect=EN&source=Indeed&sType=Indeed+Organic","Senior Engineer-Product Design Center-Mechanical-Chakan-Pune","TK Elevator","MH, IN","2026-01-16","","","","","","",False,"","","","","**Group presentation**  
+
+With customers in over 100 countries served by more than 50,000 employees, TK Elevator achieved sales of €9\\.3 billion in fiscal year 2023/2024\\. We ensure high levels of customer service globally from our extensive network of about 1,000 locations. Over the past several decades, TK Elevator has established itself as one of the world’s leading elevator companies and became independent after separation from the thyssenkrupp group in August 2020\\. The company’s most important business line is the service business proudly provided by around 25,000 service technicians. The product portfolio ranges from standardized elevators for low\\-rise residential buildings to highly customized solutions for skyscrapers. In addition, it covers escalators, moving walks, passenger boarding bridges and stair and platform lifts. Integrated cloud\\-based solutions, such as the MAX platform, are delivering enhanced services. With these digital offerings, there are no longer any limits to urban mobility. TKE – move beyond.
+
+ **What we expect**  
+
+
+**// Please apply for this job opening on our portal by copying the link and pasting it in the browser //**
+**https://ta\\-tkelevator.myndhrx.com/\\#/jobs?jobId\\=693294a31e6bd76d8d067d24**
+Role \\& Responsibilities
+* Lead and manage mechanical design and development projects from concept to production.
+* Conduct design validation during prototype, pre\\-series, and pilot phases in collaboration with cross\\-functional teams.
+* Perform design verification using tools such as FEA, DFMEA, and participate in PDR/CDR reviews.
+* Prepare design calculations, technical documentation, and qualification reports.
+* Ensure all designs comply with engineering standards, applicable codes, and best practices.
+* Collaborate with global teams and participate in cluster meetings to provide project updates.
+* Visit suppliers for product development and qualification activities.
+* Conduct site visits to elevator installations for testing and field support.
+* Oversee testing and validation of mechanical components and systems.
+* Provide technical guidance and mentorship to junior engineers.
+* Drive continuous improvement initiatives in design and development processes.
+* Conduct design reviews and provide constructive feedback to improve quality and performance.
+
+  
+
+**Who we are looking for**  
+
+* Bachelors degree in Mechanical Engineering or a related field.
+* Minimum of 8 years of experience in mechanical engineering and product development.
+* Proven track record of managing complex engineering projects.
+* Strong leadership and team management capabilities.
+* Ability to work effectively in a collaborative, cross\\-functional environment.
+* Proficiency in CAD software (e.g., SolidWorks, AutoCAD).
+* Strong knowledge of Finite Element Analysis (FEA) and thermal/structural analysis.
+* Expertise in GD\\&T, prototyping, and manufacturing processes.
+* Experience with design quality tools such as DFMEA, 8D, and 5W1H.
+* Familiarity with Windchill PLM and Microsoft Office Suite (especially Excel).
+* Knowledge of design automation and error\\-proofing techniques.
+* Strong understanding of materials used in sheet metal and structural design.
+* Excellent project management skills including timeline, budget, and resource planning.
+
+  
+
+**Contact**  
+
+**// Please apply for this job opening on our portal by copying the link and pasting it in the browser //**
+**https://ta\\-tkelevator.myndhrx.com/\\#/jobs?jobId\\=693294a31e6bd76d8d067d24**  
+
+**What we offer** **Health and Safety** – Highest standards and a wide range of health promotion and healthcare activities
+
+
+**Compensation \\-**Fair working conditions and competitive compensation
+
+
+**Collaboration and Diversity** – Collegiality is of huge importance we treat everyone with respect and appreciation
+
+ **Additional information** **Work Location**
+
+
+
+Plot No A\\-23, MIDC Chakan Phase II, Village Khalumbre, District Pune, Maharashtra 410501 \\| India \\|
+
+
+**Working Day**
+
+
+
+Monday to Saturday (2nd \\& 4th Saturdays of the month are observed as off day)
+
+  
+
+Job Reference: JPT\\_ALL01627","","https://in.indeed.com/cmp/Tk-Elevator","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/493ca0aeb2d54d5c3fcb26fe5e7752a9","https://www.tkelevator.com/us","788 Circle 75
+Suite 500
+Atlanta, GA 30339","10,000+","$5B to $10B (USD)","Engineering that keeps the world moving","","","","","",""
+"in-07692ed093e0598a","indeed","https://in.indeed.com/viewjob?jk=07692ed093e0598a","https://jobs.lever.co/weekdayworks/2ef3e8e4-6f98-40ac-8df9-0b784d23cd5f?lever-source=Indeed","AI Systems Engineer – Full Stack","Weekday","DL, IN","2026-01-16","fulltime","","","","","",False,"","","","","**This role is for one of our clients**
+Industry: Information Technology \\& Services
+Seniority level: Associate level  
+
+Min Experience: 2 years
+Location: Gurgaon, NCR
+JobType: full\\-time
+We are hiring an **AI Systems Engineer – Full Stack** to support critical post\\-training and model alignment workflows for large\\-scale AI systems. This role sits at the intersection of software engineering and AI quality, focusing on building, validating, and evaluating production\\-grade code that directly influences how advanced language models behave in real\\-world environments.
+This is a hands\\-on engineering role for developers who value precision, structured problem\\-solving, and high\\-quality execution within technically rigorous AI development pipelines.  
+
+What You’ll Work On**AI Workflow Engineering:** Build and maintain full stack components that support LLM post\\-training, evaluation, and alignment processes.**Code Validation \\& Review:** Analyze model\\-generated and human\\-written code to ensure correctness, clarity, and adherence to specifications.**Full Stack Development:** Design, implement, and verify APIs, backend logic, and frontend interfaces used in AI system tooling.**Quality \\& Accuracy:** Debug, refactor, and optimize application logic to meet strict performance and reliability benchmarks.**Specification\\-Driven Execution:** Interpret detailed technical instructions and deliver outputs that meet exact quality standards.**Cross\\-Functional Collaboration:** Work closely with engineering leads and product stakeholders to meet productivity, accuracy, and delivery goals.**Process Improvement:** Contribute to evolving best practices in AI system development, code evaluation, and quality assurance.  
+
+What We’re Looking For
+2–4 years of professional experience in software engineering with strong full stack exposure.
+Advanced proficiency in **Python** with the ability to reason deeply about code behavior.
+Working knowledge of **React**, **TypeScript**, **HTML**, and **CSS** for frontend development.
+Familiarity with **REST APIs**, testing frameworks, and Git\\-based development workflows.
+Exposure to **Java** and/or **Node.js** is a plus.
+Strong debugging skills, logical reasoning, and attention to detail.
+Ability to evaluate code against written specifications and quality benchmarks.
+Clear written communication and structured problem\\-solving mindset.  
+
+Qualifications \\& Work Environment
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related discipline.
+Prior exposure to AI systems, LLM workflows, or code evaluation tasks is advantageous.
+Comfortable working from an **office\\-based setup in Gurgaon**.
+Willingness to commit to focused, high\\-quality engineering work (8–9 hours daily).  
+
+Why This Role
+Work on real\\-world AI systems with direct production impact.
+Be part of a technically strong team operating at the frontier of LLM development.
+Gain experience with structured, high\\-stakes AI engineering workflows.
+Strong learning curve with clear performance\\-driven growth opportunities.
+Competitive compensation aligned with impact and execution quality.  
+
+Core Skills
+AI Systems Engineering • Python • Full Stack Development • React \\& TypeScript • API Design • Code Review \\& Validation • AI / LLM Workflows • Debugging \\& Optimization
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","","https://in.indeed.com/cmp/Weekday","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4e2100da7251ad06eb4910a9b2b29265","https://www.weekday.com","Stockholm","201 to 500","","","","","","","",""
+"in-4fffa91ae507891e","indeed","https://in.indeed.com/viewjob?jk=4fffa91ae507891e","https://abcfinancial.wd5.myworkdayjobs.com/ABCFinancialServices/job/Hyderabad-Office-India/QA-Engineer_REQ-03698","QA Engineer","ABC Fitness India Pvt Ltd","TS, IN","2026-01-16","fulltime","","","","","",False,"","","","","Join ABC Fitness and become part of a culture that’s as ambitious as it is authentic. Let’s transform the future of fitness—together!
+
+
+Our Values
+
+**Best Life**
+
+
+We believe great work begins with great people. That’s why our culture is built on respect, trust, and belonging. We create an inclusive environment where every team member can bring their authentic self to work—because diverse perspectives drive innovation and meaningful impact.
+
+**Growth Mindset**
+
+
+We are doers, thinkers, and dreamers. At ABC Fitness, your growth is our investment. Through continuous learning, mentorship, and professional development opportunities, we empower you to reach new heights—personally and professionally.
+
+**One Team**
+
+
+From day one, you’ll be part of a team that collaborates, celebrates, and cares. We move fast, support one another, and have fun along the way. Because when you thrive, we all thrive.
+
+
+Join ABC Fitness and become part of a culture that’s as ambitious as it is authentic. Let’s transform the future of fitness—together!
+
+ **Our Values**
+
+ **Best Life**
+
+
+We believe great work begins with great people. That’s why our culture is built on respect, trust, and belonging. We create an inclusive environment where every team member can bring their authentic self to work—because diverse perspectives drive innovation and meaningful impact.
+
+ **Growth Mindset**
+
+
+We are doers, thinkers, and dreamers. At ABC Fitness, your growth is our investment. Through continuous learning, mentorship, and professional development opportunities, we empower you to reach new heights—personally and professionally.
+
+ **One Team**
+
+
+From day one, you’ll be part of a team that collaborates, celebrates, and cares. We move fast, support one another, and have fun along the way. Because when you thrive, we all thrive.
+
+**This role requires working from our local Hyderabad office 2\\-3x a week.**
+
+ **INTRODUCTION:**
+
+
+We are looking for a highly skilled QA Engineer to lead the design, development, and implementation of automated test solutions. The ideal candidate will collaborate with development teams to improve software quality, ensure robust test coverage, and drive best practices in automation testing. At ABC, we encourage entrepreneurial mindsets, valuing fast\\-paced execution, collaboration, and continuous learning. As part of our team, you'll work alongside talented engineers and senior leaders to optimize and build upon our platform strategy.
+
+ **WHAT YOU’LL DO:**
+
+* Working closely with the Team to establish and evolve a whole team test approach.
+* Establishing and facilitating quality related team practices such as “3 amigos”
+* type sessions, bug bashes, incident learning reviews, testability reviews and operability reviews.
+* Educating the Teams in regards of QA best practices and approaches.
+* Proactively participating in feature design, planning sessions and other technical discussions highlighting possible quality risks the team must consider during the feature development process.
+* Collaborating with your teammates to exploratory test and uncover unexpected risks.
+* Collaborating with your teammates to identify and automate the appropriate tests.
+* Identify, document, and track defects, working closely with development teams to resolve them.
+* Continuously evaluate and implement new testing tools and strategies, incorporate best practices into the team’s development process for improving safety net across the product.
+* Working with the Team to establish and maintain a fast, reliable pipeline that provides valuable feedback on every change as it moves towards production.
+* Collaborating with Design, Product and Customer Success to better understand our customers and manage customer incidents effectively.
+* Continuous learning and improving your skills, actively contribute to Engineering team knowledge.
+
+ **WHAT YOU’LL NEED:**
+
+* 5\\+ years of experience in a software testing role.
+* 3\\+ years of strong proficiency in JavaScript/TypeScript for test automation.
+* Hands\\-on experience with REST API testing.
+* Strong knowledge of BDD/TDD methodologies.
+* Familiarity with SQL databases and queries for test data validation.
+* Experience working with issue tracking systems (Jira).
+* Experience working with version control systems, primarily Git.
+* Experience with exploratory testing.
+* Experience in applying different techniques, tools and approaches based on context.
+* Experience in testing technically complex systems (microservice\\-oriented systems, distributed systems with the requirement to be fail\\-safe).
+* Experience with shift\\-left testing (early in development) and shift\\-right testing (in production environments) techniques.
+* Strong problem\\-solving skills. Critical thinking and attention to details.
+* Excellent communication and influencing skills for collaborating with developers, product managers and stakeholders.
+* Strategic thinking to align testing with business objectives.
+* Ability to work independently with minimal supervision.
+* Passionately team\\-oriented and collaborative.
+
+ **AND IT’S GREAT TO HAVE:**
+
+* Experience with CI/CD pipelines (Jenkins, GitHub Actions, GitLab CI/CD, etc.).
+* Experience with performance testing and appropriate tools (JMeter, Gatling) is a plus.
+* Experience with containerized environments (Docker, Kubernetes).
+* Security testing knowledge and practices.
+* Experience with Accessibility Testing.
+* Experience with AI and Machine Learning Testing.
+* Continuous Delivery
+* Involvement in Testing Community.
+
+ **WHAT’S IN IT FOR YOU:**
+
+* Purpose led company with a Values focused culture – Best Life, One Team, Growth Mindset
+* Time Off – competitive PTO plans with 15 Earned accrued leave, 12 days Sick leave, and 12 days Casual leave per year
+* 11 Holidays plus 4 Days of Disconnect – once a quarter, we take a collective breather and enjoy a day off together around the globe. \\#oneteam
+* Group Mediclaim insurance coverage of INR 500,000 for employee \\+ spouse, 2 kids, and parents or parent\\-in\\-laws, and including EAP counseling
+* Life Insurance and Personal Accident Insurance
+* Best Life Perk – we are committed to meeting you wherever you are in your fitness journey with a quarterly reimbursement
+* Premium Calm App – enjoy tranquility with a Calm App subscription for you and up to 4 dependents over the age of 16
+* Support for working women with financial aid towards crèche facility, ensuring a safe and nurturing environment for their little ones while they focus on their careers.
+
+  
+
+At ABC Fitness, we don’t just build technology—we build communities and transform lives. Your work matters here, your growth is supported, and your voice is heard. We welcome diverse talent and encourage you to apply, even if you don’t meet every requirement.
+
+**ABC’S COMMITMENT TO DIVERSITY, EQUALITY, BELONGING AND INCLUSION:**  
+
+ABC is an equal opportunity employer committed to diversity, equity, and inclusion. We strive to create a workplace where every employee, client, and partner feels valued, inspired, and empowered to reach their full potential. For us, inclusion isn’t just the right thing to do—it’s a business imperative. Learn more at abcfitness.com.
+
+**About ABC Fitness**
+
+
+ABC Fitness is the \\#1 software provider for fitness businesses of any size, all around the world. Supporting 30K clubs, 650K coaches, 40M members, and processing more than $12B in payments every year, ABC Fitness provides scalable, data\\-driven solutions to simplify club management and engage members and clients.
+
+  
+
+From personal trainers, boutique studios, and gyms, to international franchise health clubs, ABC Fitness will move your business forward through technology and industry insights. Innovation is at the center of everything we do, across ABC Glofox, ABC Ignite, ABC Trainerize, and ABC Evo. Let's make your fitness vision a seamless reality, together. Learn more at abcfitness.com
+
+
+\\#LI\\-HYBRID
+
+
+**WHAT’S IN IT FOR YOU:**
+
+* Purpose led company with a Values focused culture – Best Life, One Team, Growth Mindset
+* Time Off – competitive PTO plans with 15 Earned accrued leave, 12 days Sick leave, and 12 days Casual leave per year
+* 11 Holidays plus 4 Days of Disconnect – once a quarter, we take a collective breather and enjoy a day off together around the globe. \\#oneteam
+* Group Mediclaim insurance coverage of INR 500,000 for employee \\+ spouse, 2 kids, and parents or parent\\-in\\-laws, and including EAP counseling
+* Life Insurance and Personal Accident Insurance
+* Best Life Perk – we are committed to meeting you wherever you are in your fitness journey with a quarterly reimbursement
+* Premium Calm App – enjoy tranquility with a Calm App subscription for you and up to 4 dependents over the age of 16
+* Support for working women with financial aid towards crèche facility, ensuring a safe and nurturing environment for their little ones while they focus on their careers
+
+
+At ABC Fitness, we don’t just build technology—we build communities and transform lives. Your work matters here, your growth is supported, and your voice is heard. We welcome diverse talent and encourage you to apply, even if you don’t meet every requirement.
+
+**ABC’S COMMITMENT TO DIVERSITY, EQUALITY, BELONGING AND INCLUSION**: ABC is an equal opportunity employer committed to diversity, equity, and inclusion. We strive to create a workplace where every employee, client, and partner feels valued, inspired, and empowered to reach their full potential. For us, inclusion isn’t just the right thing to do—it’s a business imperative. Learn more at **abcfitness.com**.
+
+
+About ABC Fitness
+
+
+ABC Fitness is the \\#1 software provider for fitness businesses of any size, all around the world. Supporting 30K clubs, 650K coaches, 40M members, and processing more than $12B in payments every year, ABC Fitness provides scalable, data\\-driven solutions to simplify club management and engage members and clients.
+
+
+From personal trainers, boutique studios, and gyms, to international franchise health clubs, ABC Fitness will move your business forward through technology and industry insights. Innovation is at the center of everything we do, across ABC Glofox, ABC Ignite, ABC Trainerize, and ABC Evo. Let's make your fitness vision a seamless reality, together. Learn more at **abcfitness.com**
+
+
+\\#LI\\-HYBRID","","https://in.indeed.com/cmp/ABC-Fitness-India-Pvt-Ltd","","","","","","","","","","","",""
+"in-5d735c09406aea87","indeed","https://in.indeed.com/viewjob?jk=5d735c09406aea87","https://wk.wd3.myworkdayjobs.com/en-US/External/job/IND-Pune-IndiQube-Orchid/Lead-Engineer---DevOps_R0053927","Lead Engineer - DevOps","Wolters Kluwer","MH, IN","2026-01-16","fulltime","","","","","",False,"","","","","About the Role
+We are seeking an experienced Lead DevOps Engineer. As a Lead, you will manage and mentor a team of 3–4 DevOps Engineers while also operating as a strong individual contributor (approximately 75% of your capacity). You will own the modernization, reliability, and scalability of our DevOps ecosystem—driving CI/CD excellence, enhancing release operations, strengthening infrastructure automation, and ensuring smooth deployments across multiple global regions.
+Required Skills \\& Experience* 10–15 years of total experience, with at least 4–5 years in senior/lead DevOps roles.
+* Strong expertise in Azure cloud, including AKS, Azure Networking, MySQL PaaS, IAM, Storage.
+* Deep knowledge of Docker, Kubernetes (AKS), Helm, and container lifecycle management.
+* Expertise in CI/CD using:
+	+ Azure DevOps Pipelines
+	+ GitHub Actions (migration experience is a strong advantage)
+* Strong, hands\\-on IaC experience:
+	+ YAML\\-based templates (ADO/GitHub)
+	+ Terraform (must\\-have for upcoming initiatives)
+* Strong understanding of multi\\-region deployments, artifact management, and release orchestration.
+* Solid debugging skills for pipelines, container workloads, connectivity, performance, and MySQL/Azure PaaS behaviour.
+	+ Excellent understanding of monitoring, logs, and alerting using Datadog , Azure Log Analytics (ALA), etc.
+* Experience with Secrets Management via Vault or equivalent.
+* Strong scripting in PowerShell is mandatory. Exposure to Bash/Python is a plus.
+* Exposure to CI/CD build processes for .NET and Angular applications (dotnet CLI, NuGet, npm/Angular CLI), with the ability to troubleshoot build and dependency issues.
+* Proven ability to lead, mentor, and grow DevOps engineers.
+
+
+Nice\\-to\\-Have Skills* Experience with JIRA, ServiceNow, or enterprise ITSM processes.
+* Feature flag systems (Azure App Configuration, or similar).
+* Experience in Power BI
+* Knowledge of GitOps practices (ArgoCD/Flux).
+* Exposure to FinOps, cost optimization, and cloud governance.
+
+
+Experience with API Gateway, service mesh, or advanced AKS networking.
+Key Responsibilities
+1\\. Platform \\& Infrastructure Engineering* Lead design, deployment, and optimization of infrastructure on Azure (AKS, VMSS/IaaS, Azure PaaS services—especially Azure App Services, Key Vault, Service Bus, Az Redis, AZ Entra ID,MySQL).
+* Own and improve container orchestration workflows using Docker \\& AKS.
+* Drive segregation of services into individual AKS pods for improved reliability and scalability.
+* Implement Infrastructure\\-as\\-Code using Terraform (transition from existing Classic/YAML\\-based IaC in ADO/GitHub).
+
+
+2\\. CI/CD \\& Release Engineering* Own end\\-to\\-end CI/CD pipelines across ADO and GitHub Actions.
+
+Lead the migration from Azure DevOps pipelines* GitHub Actions.
+* Leads Hands Free release transition
+* Maintain and optimize build \\& release pipelines for over 20\\+ services deployed to global regions.
+* Develop automated, hands\\-free deployment processes with guardrails, validations, and rollback mechanisms.
+* Troubleshoot and resolve pipeline failures, environment issues, and release blockers—including MySQL PaaS\\-related issues.
+* Support release execution across multiple global regions, ensuring release readiness, consistency of configuration, and alignment of deployments.
+* Support production release, ensure gaps in release configuration are identified and resolved proactively.
+* Help standardize, automate, and optimize release workflows to improve predictability and reduce manual steps.
+
+
+3\\. Reliability \\& Operations* Ensure reliability and health of AKS workloads across multiple regions.
+* Set up effective monitoring, alerting, and dashboards using Datadog, Azure Log Analytics, and related tools.
+* Manage secrets and configurations using Vault and Azure\\-native services.
+* Partner with engineering teams to improve service resilience, deployment patterns, and release quality.
+
+
+4\\. Leadership \\& Collaboration* Lead and mentor a DevOps team of 3–4 engineers.
+* Collaborate closely with Development, QA, SRE, Architecture, Security, and Program Management.
+* Define standards, best practices, and governance for CI/CD, IaC, and release management.
+* Drive a culture of automation, performance optimization, and continuous improvement.
+
+
+Our Interview Practices*To maintain a fair and genuine hiring process, we kindly ask that all candidates participate in interviews without the assistance of AI tools or external prompts. Our interview process is designed to assess your individual skills, experiences, and communication style. We value authenticity and want to ensure we’re getting to know you—not a digital assistant. To help maintain this integrity, we ask to remove virtual backgrounds and include in\\-person interviews in our hiring process. Please note that use of AI\\-generated responses or third\\-party support during interviews will be grounds for disqualification from the recruitment process.**Applicants may be required to appear onsite at a Wolters Kluwer office as part of the recruitment process.*","","https://in.indeed.com/cmp/Wolters-Kluwer","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0e686c67da1bd46cee95a528fd1cb51e","https://careers.wolterskluwer.com/de-de","Alphen aan den Rijn","10,000+","$1B to $5B (USD)","","","","","","",""
+"in-a35a5b302e15f80f","indeed","https://in.indeed.com/viewjob?jk=a35a5b302e15f80f","https://careers.wipro.com/job/GCP-Data-Engineer/127697-en_US","GCP Data Engineer","Wipro","MH, IN","2026-01-16","","","","","","",False,"","","","","Job Description* 
+Job Title: GCP Data Engineer
+City: Pune
+State/Province: Maharashtra
+Posting Start Date: 1/16/26
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs. Leveraging our holistic portfolio of capabilities in consulting, design, engineering, and operations, we help clients realize their boldest ambitions and build future\\-ready, sustainable businesses. With over 230,000 employees and business partners across 65 countries, we deliver on the promise of helping our customers, colleagues, and communities thrive in an ever\\-changing world. For additional information, visit us at www.wipro.com.
+Job Description:
+**GCP Data Engineer**
+---------------------
+
+**Role Purpose**
+
+We are seeking a skilled GCP Data Engineer with a strong background in Google Cloud Platform technologies. The ideal candidate will possess a deep understanding of GCP core services and will have hands\\-on experience with data processing and analysis.  
+
+
+
+**Key Responsibilities:**Design, develop, and maintain data processing pipelines using Google Cloud services.
+Work with BigQuery for data warehousing and analytics.
+Implement data workflows using DataFlow and Apache Beam (python).
+Manage and orchestrate data pipelines with Google Cloud Composer.
+Ensure data security and access management using IAM and other relevant GCP services.
+Write clean, maintainable, and efficient code in Python for data processing tasks.
+Utilize SQL for querying and analyzing data within BigQuery.
+Troubleshoot and resolve data\\-related issues in a timely manner.  
+
+**Required Qualifications \\& Skills:**Proven experience as a Data Engineer, with GCP.
+Strong understanding of GCP services including GCE, IAM, GCS, BigQuery, DataFlow, and Composer.
+Proficiency in SQL and experience with relational databases.
+Experience with Apache Beam and Python programming.
+Familiarity with data modeling, ETL processes, and data warehousing concepts.
+Excellent problem\\-solving skills and attention to detail.
+Strong communication and collaboration skills.
+**͏**
+-----
+
+**Do**
+
+1\\. Instrumental in understanding the requirements and design of the product/ software
+
+
+* Develop software solutions by studying information needs, studying systems flow, data usage and work processes
+* Investigating problem areas followed by the software development life cycle
+* Facilitate root cause analysis of the system issues and problem statement
+* Identify ideas to improve system performance and impact availability
+* Analyze client requirements and convert requirements to feasible design
+* Collaborate with functional teams or systems analysts who carry out the detailed investigation into software requirements
+* Conferring with project managers to obtain information on software capabilities
+**͏**
+-----
+
+2\\. Perform coding and ensure optimal software/ module development
+
+
+* Determine operational feasibility by evaluating analysis, problem definition, requirements, software development and proposed software
+* Develop and automate processes for software validation by setting up and designing test cases/scenarios/usage cases, and executing these cases
+* Modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces.
+* Analyzing information to recommend and plan the installation of new systems or modifications of an existing system
+* Ensuring that code is error free or has no bugs and test failure
+* Preparing reports on programming project specifications, activities and status
+* Ensure all the codes are raised as per the norm defined for project / program / account with clear description and replication patterns
+* Compile timely, comprehensive and accurate documentation and reports as requested
+* Coordinating with the team on daily project status and progress and documenting it
+* Providing feedback on usability and serviceability, trace the result to quality risk and report it to concerned stakeholders
+**͏**
+-----
+
+3\\. Status Reporting and Customer Focus on an ongoing basis with respect to project and its execution
+
+
+* Capturing all the requirements and clarifications from the client for better quality work
+* Taking feedback on the regular basis to ensure smooth and on time delivery
+* Participating in continuing education and training to remain current on best practices, learn new programming languages, and better assist other team members.
+* Consulting with engineering staff to evaluate software\\-hardware interfaces and develop specifications and performance requirements
+* Document and demonstrate solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code
+* Documenting very necessary details and reports in a formal way for proper understanding of software from client proposal to implementation
+* Ensure good quality of interaction with customer w.r.t. e\\-mail content, fault report tracking, voice calls, business etiquette etc
+* Timely Response to customer requests and no instances of complaints either internally or externally
+**͏**
+-----
+
+**Deliver**
+
+**No.** **Performance Parameter** **Measure**  
+
+1\\. Continuous Integration, Deployment \\& Monitoring of Software 100% error free on boarding \\& implementation, throughput %, Adherence to the schedule/ release plan
+  
+
+2\\. Quality \\& CSAT On\\-Time Delivery, Manage software, Troubleshoot queries, Customer experience, completion of assigned certifications for skill upgradation
+  
+
+3\\. MIS \\& Reporting 100% on time MIS \\& report generation  
+
+  
+
+Mandatory Skills: Data Engineering Full Stack .  
+
+Experience: 3\\-5 Years .  
+
+Reinvent your world. We are building a modern Wipro. We are an end\\-to\\-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA \\- as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention.","","https://in.indeed.com/cmp/Wipro","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8b2cd63e1e41ba18596880aca0e609bc","http://www.wipro.com","Bengaluru","10,000+","$5B to $10B (USD)","","","","","","",""
+"in-60a7c01056b3ebbd","indeed","https://in.indeed.com/viewjob?jk=60a7c01056b3ebbd","http://www.respondhr.com/150669209","Senior Manager - AI Transformation Technology","HP","KA, IN","2026-01-16","","","","","","",False,"","","","","This role is responsible for driving the end\\-to\\-end strategy, governance, and execution of the AI Software Development Lifecycle (AI SDLC) across the organization. The Senior Manager – Dev exp \\& AI SDLC Program provides single\\-threaded program leadership to define, standardize, and operationalize tools, platforms, processes, and metrics that enable secure, scalable, compliant, and high\\-quality AI\\-enabled software delivery.
+
+
+The role partners closely with engineering, data science, MLOps, security, legal/compliance, product management, and client engagement teams to ensure AI initiatives move efficiently from ideation to production and sustained operations. The role leads cross\\-functional programs rather than day\\-to\\-day DevOps execution, focusing on strategy, alignment, and outcomes across multiple teams and products.
+
+
+ResponsibilitiesProgram \\& Strategy Leadership* Owns the E2E AI SDLC program, spanning data ingestion, model development, validation, deployment, monitoring, and continuous improvement.
+* Defines and drives DevX strategy for AI and software delivery, aligning engineering execution with business, security, and compliance objectives.
+* Leads cross\\-org initiatives to standardize AI SDLC practices, including MLOps, CI/CD for AI, model governance, observability, and release readiness.
+* Translates executive priorities into clear program roadmaps, milestones, and success metrics.
+
+
+Technical Governance \\& Enablement* Establishes reference architectures, standards, and guardrails for AI\\-enabled systems across cloud and hybrid environments.
+* Partners with DevOps, MLOps, platform, and security teams to ensure tooling alignment across CI/CD, model lifecycle management, monitoring, and access control.
+* Ensures security, privacy, Responsible AI, and regulatory requirements are embedded into the AI SDLC by design.
+* Evaluates emerging technologies and platforms to recommend scalable, future\\-ready solutions for AI and developer productivity.
+
+
+Execution Oversight (Not Line Execution)* Oversees execution of high\\-impact, multi\\-team programs, resolving dependencies, risks, and delivery bottlenecks.
+* Drives adoption of automation, quality gates, and operational readiness criteria for AI and software releases.
+* Establishes program\\-level dashboards to track health, velocity, compliance, and operational outcomes.
+
+
+Stakeholder \\& Leadership Engagement* Acts as the primary point of accountability for AI SDLC maturity across the organization.
+* Provides regular, concise updates to senior leadership on progress, risks, trade\\-offs, and outcomes.
+* Builds strong partnerships across development, data science, operations, security, legal, and product teams to drive alignment and shared ownership.
+
+
+People \\& Capability Development* Leads and mentors program managers, technical leads, and DevX contributors aligned to AI SDLC initiatives.
+* Guides capability development through role\\-based enablement, best practices, and change management.
+* Influences resourcing and prioritization decisions in collaboration with functional leaders.
+
+
+Education \\& Experience Recommended* Four\\-year or Graduate Degree in Computer Science, Information Systems, Engineering, or related discipline, or equivalent practical experience.
+* Typically 10\\+ years of experience in software engineering, DevOps, platform engineering, AI/ML systems, or large\\-scale technical program management.
+* 5\\+ years leading cross\\-functional technical programs involving multiple engineering and platform teams.
+
+
+Preferred Certifications* AWS Certified DevOps Engineer, AWS Machine Learning, Azure AI Engineer, or equivalent cloud/AI certifications.
+* Agile / SAFe Program Consultant (SPC), PMP, or similar program leadership certification (preferred).
+
+
+Knowledge \\& SkillsCore Technical* AI/ML Systems \\& MLOps
+* CI/CD for Software and AI Pipelines
+* Cloud Platforms (AWS, Azure)
+* Automation \\& Infrastructure as Code
+* Observability, Monitoring, and Model Performance Tracking
+* Microservices \\& Distributed Systems
+* Security, Compliance, and Access Governance
+* APIs and Platform Integration
+
+
+Software \\& AI Development* Python, Java, JavaScript (working knowledge)
+* Containers \\& Orchestration (Docker, Kubernetes)
+* Data \\& Model Lifecycle Management
+* Scalability and Reliability Engineering
+
+
+Program \\& Leadership* Agile \\& Product\\-Oriented Delivery Models
+* Dependency \\& Risk Management
+* Metrics\\-Driven Execution
+* Executive Communication
+* Change Management
+
+
+Cross\\-Org Skills* Strategic Thinking
+* Customer Centricity
+* Prioritization Across Competing Initiatives
+* Resilience in Ambiguous Environments
+* Influence Without Direct Authority
+
+
+Impact \\& Scope* Impacts large, multi\\-disciplinary engineering and AI functions across HP.
+* Shapes how AI\\-enabled software is designed, delivered, governed, and operated at scale.
+* Directly influences time\\-to\\-market, quality, compliance posture, and developer productivity.
+
+
+Complexity* Operates in a highly complex, evolving technical and regulatory landscape.
+* Applies managerial and program leadership concepts to resolve ambiguous, high\\-impact problems.
+* Achieves outcomes through matrixed teams and indirect leadership.","","https://in.indeed.com/cmp/HP","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d05d837238f0d8da119e3de1f2239855","https://jobs.hp.com","Palo Alto, CA","10,000+","Decline to state","At HP, you can reinvent what matters most—in your career, across the company, and for people everywhere.","","","","","",""
+"in-784746d1a6b4a8cf","indeed","https://in.indeed.com/viewjob?jk=784746d1a6b4a8cf","https://perfios.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a696a0b7ab39ca","Senior Data Engineer","Perfios Software Solutions","MH, IN","2026-01-16","","","","","","",False,"","","","","**Job Description**
+
+
+The Member Technical Team will be working on building and enhancing data pipelines and backend systems using Python, PySpark, and AWS. Contribute to feature development across the data ingestion, processing, and application layers. He/ She will also apply secure coding practices and performance\\-focused design in cloud\\-native environments. Also Collaborate with experienced engineers and product teams on system design and implementation and Use modern open\\-source tools and GenAI\\-assisted development environments to solve real\\-world data and engineering problems.**What Your Average Day Would Look Like:*** Writing efficient python stream codes for data cleaning, mapping, pre\\-processingg, transformations, validations, derivations of the data ingestion pipeline (Python)
+* Writing pyspark jobs for solving business use\\-cases scheduled on defined basics (AWS EMR)
+* Using GenAI in Code Generation Tools/ IDE for improving the productivity
+* Implement security and data protection best practices
+* Handle end to end development of Features
+* Collaborate with the product team to develop robust and user\\-friendly features.
+* Design and implement low\\-latency, highly available, and performant applications.
+* Contribute ideas towards highly available, scalable, and resilient Cloud architectures
+* Use open source tools and technologies to solve complex data and business problems
+* Collaborate closely with cross\\-functional teams to brainstorm and solve architecture, design, and system\\-level problems
+
+**Must Have skills**:* Excellent analytical and problem\\-solving skills
+* Proven experience in the software development life\\-cycle
+* Proficiency in at least one general\\-purpose \\& OOP programming language specifically Python
+* Experience with No\\-SQL databases. MongoDB/ Cassandra preferred
+* Proficiency in Git for version control \\& hands\\-on experience working in a Linux environment
+* Knowledge of Amazon Web Services (AWS) services
+* Familiarity with Serverless Framework \\& RESTful APIs
+
+**Highly Desirable skills:*** Hands\\-on experience with at least one NoSQL database (Preferably MongoDB / Cassandra) and/or distributed system (Spark, Kafka)
+* Experience with search database eg. Elasticsearch / graph database eg. JanusGraph,
+* Hands\\-on experience with services from cloud vendors (Preferable AWS services)
+* Capability of writing clean and efficient code following Python PEP
+
+**EXPERIENCE AND EDUCATION*** 3 to 5 years of relevant experience in Big Data
+* Bachelor/ Master Degree in Computer Science / Computer Engineering / Information Technology
+
+  
+**Job Snapshot**
+Updated Date
+16\\-01\\-2026
+Job ID
+JR\\-23\\-10436
+Sub Business Unit
+KSCAN
+Location
+Mumbai, Maharashtra, India
+Experience
+3 \\- 5 Years
+Employee Type
+Permanent","","https://in.indeed.com/cmp/Perfios-Software-Solutions","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0c0dacb001f860cd58a84f727c1ec4b9","https://www.perfios.com/","","","","","","","","","",""
+"in-52672c6a28ba9b93","indeed","https://in.indeed.com/viewjob?jk=52672c6a28ba9b93","https://careers.brillio.com/job-details?job-id=20805","Lead Quality Engineer – R01557793","Brillio LLC","KA, IN","2026-01-16","","","","","","",False,"","","","","**Lead Quality Engineer \\- R01557793**
+======================================
+
+
+**Lead Quality Engineer**###### **Primary Skills**
+
+* ETL Testing, SQL, Databricks testing.
+
+###### **Specialization**
+
+* ETL Specialization: Senior Lead Data Engineer
+
+###### **Job requirements**
+
+* **Data Intelligence QA Role:**
+* We’re seeking an experienced and technically strong Quality Engineer (QE) to help transform our QA function. This is a hands\\-on role for professionals with a strong mix of data domain expertise, test automation experience, and CI/CD pipeline knowledge.
+* The QE will be instrumental in building scalable, automated test frameworks that support our cloud\\-first architecture on Azure, with heavy use of Databricks, Power BI, and Azure Functions.
+* The ideal candidate is comfortable working in a fast\\-paced, Agile environment and has experience across both data and software testing—with an eye toward continuous improvement and quality at scale.
+
+**Key Responsibilities Automation \\& QA Engineering*** Design, develop, and maintain automated test frameworks.
+
+• Build reusable automated test suites for ETL pipelines, APIs, UI, and back\\-end systems. • Integrate tests into CI/CD pipelines using GitHub Actions.
+* Lead the effort to shift from manual QA to automation across platforms.
+
+Test Planning \\& Execution* Create and manage test plans and cases using Jira, Confluence and SharePoint.
+* Execute both manual and automated tests across Dev, QA, and Prod environments.
+* Track, manage, and validate defects using Jira. Data Platform \\& Reporting Validation.
+* Perform deep data validations on Databricks, Power BI, and Azure\\-based data flows.
+* Collaborate with Data Engineers, Analysts, and BAs to ensure data integrity and test coverage.
+* Implement automated ETL validation to catch data quality issues early in the cycle. CI/CD Pipeline Integration
+* Set up and optimize CI/CD pipelines, ensuring test automation is fully integrated.
+* Participate in post\\-deployment validations and production readiness checks.
+
+• Support disaster recovery testing and environment stability checks. AI • Build and maintain AI\\-assisted automated test cases
+* Leverage AI capabilities for intelligent test case creation and optimization within Jira.
+
+**Required Skills \\& Experience**
+• Strong QA engineering skills and experience, including test automation and CI/CD. • Strong knowledge of GitHub, GitHub Actions, and CI/CD practices.
+* Experience with SQL for data validation and automated testing in data platforms.
+* Proven experience testing in Azure environments (e.g., Databricks, Azure Functions, Power BI).
+* Familiarity with Agile methodologies and sprint\\-based development cycles.
+* Hands\\-on experience with AI, Jira, Confluence, Git, and SharePoint. **Preferred Qualifications**
+* Experience setting up CI/CD pipelines from scratch or optimizing existing workflows.
+* Background in data security and compliance (e.g., PHI, data masking, access control).
+* Experience with performance/load testing tools.
+* Knowledge of testing in AI/ML or data science workflows is a strong plus. **Soft Skills**
+* Strong communication and collaboration skills across technical and business teams.
+* Detail\\-oriented, with a mindset for continuous improvement and automation\\-first thinking.
+* Self\\-starter with the ability to manage time and tasks independently.","Consulting And Business Services","https://in.indeed.com/cmp/Brillio-LLC","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3cc68cea876232ac8a6829881ecafa81","https://www.brillio.com/","5201 Great America Parkway Suite 100 Santa Clara, CA 95054","1,001 to 5,000","$100M to $500M (USD)","A global technology company developing disruptive solutions to drive digital transformation for our customers.","","","","","",""
+"in-e7cf66e2066f7b17","indeed","https://in.indeed.com/viewjob?jk=e7cf66e2066f7b17","https://jobs.tkelevator.com/de/job/Engineer-Product-Design-Center-Mechanical-Chakan-Pune-Pune?id=942503","Engineer-Product Design Center-Mechanical-Chakan-Pune","TK Elevator","MH, IN","2026-01-16","","","","","","",False,"","","","","What we expect
+
+**// Please apply for this job opening on our portal by copying the link and pasting it in the browser //**
+https://ta\\-tkelevator.myndhrx.com/\\#/jobs?jobId\\=6932890c49dbb6df4705e6d6
+
+
+Role \\& responsibilities* Conduct design verification using tools and processes such as FEA, DFMEA, Preliminary Design Review (PDR), and Critical Design Review (CDR).
+* Participate in the Testing \\& Qualification (T\\&Q) process to ensure product reliability and performance.
+* Prepare and maintain technical documentation, including design calculations, specifications, and validation reports.
+* Provide regular updates in global cluster meetings on project status and technical progress.
+* Lead the development of new parts/products for elevator control systems in accordance with applicable codes and standards.
+* Validate designs during prototype, pre\\-series, and pilot phases in collaboration with cross\\-functional teams.
+* Coordinate with suppliers for product development and qualification.
+* Conduct site visits to elevator installations for testing, troubleshooting, and field support.
+
+Who we are looking for
+
+  
+
+* Bachelor's degree in Mechanical Engineering or a related field.
+* Minimum of 2 to 5 years of experience in mechanical engineering and product development.
+* Experience in designing sheet metal and structural components.
+* Strong understanding of manufacturing processes, including welding and fabrication.
+* Hands\\-on experience with CAD tools (preferably SolidWorks) and Microsoft Office Suite, especially Excel.
+* Familiarity with Windchill PLM is a plus.
+* Knowledge of design automation and error\\-proofing techniques.
+* Good understanding of material properties and their application in engineering design.
+
+What we offer
+
+**Health and Safety** – Highest standards and a wide range of health promotion and healthcare activities
+
+**Compensation \\-**Fair working conditions and competitive compensation
+
+**Collaboration and Diversity** – Collegiality is of huge importance we treat everyone with respect and appreciation
+
+
+Additional information
+
+**Work Location**
+
+
+Plot No A\\-23, MIDC Chakan Phase II, Village Khalumbre, District Pune, Maharashtra 410501 \\| India \\|
+
+**Working Day**
+
+
+Monday to Saturday (2nd \\& 4th Saturdays of the month are observed as off day)","","https://in.indeed.com/cmp/Tk-Elevator","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/493ca0aeb2d54d5c3fcb26fe5e7752a9","https://www.tkelevator.com/us","788 Circle 75
+Suite 500
+Atlanta, GA 30339","10,000+","$5B to $10B (USD)","Engineering that keeps the world moving","","","","","",""
+"in-a8e09a2ff8760971","indeed","https://in.indeed.com/viewjob?jk=a8e09a2ff8760971","http://in.indeed.com/job/documentation-engineer-qa-a8e09a2ff8760971","Documentation Engineer - QA","lifecraft engineering","MH, IN","2026-01-16","fulltime","","","","","",False,"","","","","**Position:** QA – Documentation Engineer  
+**Experience:** 4\\+ Years  
+**Location:** Vasai, Mumbai  
+**Company:** Lifecraft Engineering (India) Limited  
+**Industry:** Pharmaceutical Turnkey Projects / Process Equipment Manufacturing
+
+**Role Overview**
+
+Lifecraft Engineering (India) Limited is seeking an experienced **QA – Documentation Engineer** to support our pharmaceutical turnkey projects. The role involves preparation, review, and control of engineering and quality documentation for pharma process systems, ensuring compliance with regulatory standards, client specifications, and internal quality requirements.
+
+**Key Responsibilities**
+
+* Prepare, review, and control engineering documentation including **GA drawings, P\\&IDs, BOQs, and detailed manufacturing drawings**.
+* Perform **design calculations** and assist in validation of engineering designs as per project requirements.
+* Coordinate with **cross\\-functional teams** (Design, Projects, Procurement, Manufacturing) for integration and selection of suitable **OEM components**.
+* Participate in the **design and development of pharmaceutical systems** such as:
+* Purified Water \\& WFI systems
+* Ointment and Liquid Preparation Plants
+* Process and Storage Vessels
+* Autoclaves, Steam Sterilizers, and allied equipment
+* Prepare and maintain **QA documentation** including SOPs, Specifications, QAPs, Data Sheets, Manuals, and project dossiers.
+* Ensure documentation compliance with **GMP, cGMP, and relevant regulatory standards**.
+* Provide technical support related to **pneumatic, vacuum, and cooling systems** used in pharmaceutical applications.
+* Stay updated with **latest industry trends, technologies, and regulatory expectations** in pharmaceutical turnkey projects.
+* Support internal and external audits by providing required documentation and clarifications.
+* Perform any other related duties as assigned by management.
+
+**Qualification \\& Skills**
+
+* **Bachelor’s Degree** in Mechanical / Chemical / Instrumentation Engineering or equivalent.
+* **4\\+ years of experience** in QA documentation or engineering documentation within **pharmaceutical equipment or turnkey project industry**.
+* Strong understanding of **pharma process equipment and utility systems**.
+* Proficiency in **AutoCAD** and documentation tools.
+* Good knowledge of **GMP documentation practices**.
+* Excellent coordination, communication, and organizational skills.
+* Ability to manage multiple projects and meet tight deadlines.
+
+Job Type: Full\\-time
+
+Pay: ₹25,000\\.00 \\- ₹50,000\\.00 per month
+
+Benefits:
+
+* Paid time off
+* Provident Fund
+
+Work Location: In person","","https://in.indeed.com/cmp/Lifecraft-Engineering","","","","","","","","","","","",""
+"in-25e288b76dd62f2c","indeed","https://in.indeed.com/viewjob?jk=25e288b76dd62f2c","http://in.indeed.com/job/data-processing-engineer-25e288b76dd62f2c","Data Processing Engineer","Crest climber software solution pvt ltd","TN, IN","2026-01-16","fulltime","","","","","",False,"","","","","* A Data Processing Engineer builds and maintains the data infrastructure (pipelines, databases) that collects, transforms, and moves raw data into clean, usable information for analysts and scientists, focusing on ETL processes, data quality, and system optimization, ensuring data is accessible, reliable, and efficient for business intelligence and AI. Key responsibilities include designing data flows, developing software, ensuring data governance, collaborating cross\\-functionally, and automating processes to support data\\-driven decisions.
+* Key Responsibilities
+* Build \\& Maintain Infrastructure: Design, construct, and manage data pipelines, databases, and storage systems (SQL/NoSQL, cloud platforms).
+* Data Transformation: Develop ETL (Extract, Transform, Load) processes to convert raw data into actionable formats.
+* Data Quality \\& Governance: Implement data cleansing, validation, and quality checks; ensure security and compliance.
+* Automation \\& Optimization: Automate data workflows and optimize system performance for large datasets.
+* Collaboration: Work with data scientists, analysts, and business stakeholders to understand needs and deliver data solutions.
+* Analysis Support: Prepare data for modeling, reporting, and advanced analytics. Essential Skills \\& Qualifications
+* Programming: Proficiency in Python, SQL, Java, Scala, etc..
+* Databases: Expertise in relational (SQL) and NoSQL databases.
+* Big Data Technologies: Familiarity with tools like Hadoop, Spark, Kafka.
+* Cloud Platforms: Experience with AWS, Azure, or GCP is often required.
+* Critical Thinking: Ability to troubleshoot complex data issues and identify opportunities for improvement.
+* Tamil candidates only
+* Chennai Candidates only
+* Freshers and 30 age below candidates only
+
+Job Type: Full\\-time
+
+Pay: ₹9,520\\.64 \\- ₹72,501\\.89 per month
+
+Benefits:
+
+* Food provided
+
+Work Location: In person","","https://in.indeed.com/cmp/Crest-Climber-Software-Solution-Pvt-Ltd","","","","","","","","","","","",""
+"in-1c426ef8c0055a07","indeed","https://in.indeed.com/viewjob?jk=1c426ef8c0055a07","http://in.indeed.com/job/associate-machine-learning-1c426ef8c0055a07","Associate Machine Learning","Corrosion Intel","UP, IN","2026-01-16","fulltime","","","","","",False,"","","","","**Responsibilities**
+
+* Understand, clean, and process **diverse industrial and business datasets** (time\\-series, sensor data, operational logs, tabular and semi\\-structured data).
+* Design, train, and evaluate **machine learning and deep learning models** for real\\-world business and industrial use cases.
+* Build **deployable ML/DL pipelines**, including data preprocessing, model inference, and performance monitoring.
+* Support **rapid prototyping** of models and experiments to validate ideas and iterate quickly.
+* Collaborate closely with a **multidisciplinary team** comprising domain experts, physicists, chemical engineers, and software developers.
+* Work with the **software development team** to integrate models into **production\\-grade enterprise AI platforms**.
+* Petrochemical assets (refineries, storage tanks, pipelines, process units)
+* Metal and mineral processing assets
+* Assist in model validation, documentation, and performance benchmarking.
+
+**Qualifications**
+
+* **MCA or equivalent degree** with strong foundations in computer science.
+* Solid understanding of **machine learning and deep learning fundamentals**.
+* Hands\\-on experience with **Python** for ML development (NumPy, Pandas, PyTorch / TensorFlow / scikit\\-learn).
+* Working knowledge of **C\\+\\+** for performance\\-critical components or integration is preferred.
+* Ability to **prototype and iterate models quickly** is mandatory.
+* Basic familiarity with **data pipelines, model training workflows, and deployment concepts**.
+* Strong problem\\-solving skills and willingness to learn domain\\-specific industrial systems.
+
+Job Type: Full\\-time
+
+Pay: ₹20,000\\.00 \\- ₹25,000\\.00 per month
+
+Application Question(s):
+
+* Are you willing to relocate to NOIDA
+* Can you commit an employment of 1 year or more
+
+Experience:
+
+* Simulation: 1 year (Required)
+
+Work Location: In person","","https://in.indeed.com/cmp/Corrosion-Intel","","","","","","","","","","","",""
+"in-331d3db46d3b1588","indeed","https://in.indeed.com/viewjob?jk=331d3db46d3b1588","https://winfosolutions.keka.com/careers/jobdetails/116945?source=indeed%20job%20posts","Senior Consultant","Winfo Solutions","TS, IN","2026-01-16","","","","","","",False,"","","","","**Senior QA Engineer****Experience:** 7–10 Years**Location:** Hyderabad**Role Summary**
+We are seeking a Senior QA Engineer with strong automation and functional testing expertise to support a data engineering platform. The ideal candidate will define and execute comprehensive test strategies, develop scalable automation frameworks, and ensure data quality across ETL pipelines, APIs, and backend systems. This role will also involve test case design, data validation, and close collaboration with engineering teams to uphold quality standards throughout the SDLC.**Key Responsibilities*** **End\\-to\\-End Testing:** Develop and execute detailed test cases, test scenarios, and acceptance criteria for data engineering deliverables, including ETL pipelines, data transformations, APIs, and backend services.
+* **Automation Frameworks:** Build and maintain automation frameworks in Python or Java to reduce manual regression and improve release velocity.
+* **API \\& Backend Testing:** Conduct REST/GraphQL API validation, schema verification, and database checks using advanced SQL queries.
+* **Data Quality Validation:** Verify data lineage, transformations, and integrity across multiple data sources and downstream systems.
+* **Documentation \\& Process:** Prepare test plans, test strategies, and test execution reports; establish clear entry/exit criteria for releases.
+* **Collaboration \\& Mentorship:** Work closely with Data Engineers, DevOps, and Product teams; mentor junior QA engineers on test design, debugging, and quality best practices.
+
+**Required Skills*** **Experience:** 7\\+ years in QA with significant exposure to automation and backend testing.
+* **Test Engineering:** Strong experience in test case design, test planning, and defect lifecycle management.
+* **Scripting:** Proficient in Python or Java for writing automation scripts.
+* **Tools:** Hands\\-on experience with Selenium or Playwright for UI, Postman for API, and JIRA for defect tracking.
+* **Database:** Strong SQL skills for verification, test data preparation, and consistency checks.","","https://in.indeed.com/cmp/Winfo-Solutions","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/67478e5fe6dbd9f68cf3c575c481c431","https://winfosolutions.com/","","","","","","","","","",""
+"in-5a63bd3f393db4b5","indeed","https://in.indeed.com/viewjob?jk=5a63bd3f393db4b5","http://in.indeed.com/job/material-planning-executive-5a63bd3f393db4b5","Material Planning Executive","Satin Neo Dimensions pvt ltd","HR, IN","2026-01-16","fulltime","","","","","",False,"","","","","**Job Summary:**
+
+The BOM Executive in the retail interior domain is responsible for preparing, maintaining, and updating accurate Bills of Materials for retail store fit\\-outs and interior projects. This role ensures correct quantity take\\-offs, material planning, cost estimations, and procurement coordination based on approved drawings and BOQs.
+
+**Key Responsibilities:**
+
+* Prepare detailed Bills of Materials (BOMs) from interior layout drawings, shop drawings, and GFCs.
+* Coordinate with the design and estimation teams to extract accurate material and quantity information.
+* Maintain a standardized material database with correct specifications (e.g., laminate, veneer, plywood, MDF, paint, etc.).
+* Work closely with project managers and site engineers to incorporate site\\-specific changes into the BOM.
+* Align BOM data with procurement and vendor requirements to ensure timely material ordering.
+* Update and revise BOMs based on design modifications, change requests, or site instructions.
+* Support the estimation team in cost analysis and budgeting by providing accurate quantities.
+* Ensure all materials are coded correctly as per company systems for procurement and inventory.
+* Liaise with vendors and the procurement team to verify availability and specifications of interior materials and hardware.
+
+Conduct quantity checks and validations during and after project execution to improve accuracy
+
+**Requirements:**
+
+* Diploma or Bachelor’s Degree in Interior Design, Civil Engineering, Architecture, or a related field.
+* 2–5 years of experience in retail interiors, fit\\-out projects, or construction BOQ/BOM preparation.
+* Strong understanding of materials used in interior projects – woodwork, joinery, finishes, lighting, hardware, etc.
+* Ability to read and interpret technical drawings and interior design layouts.
+* Proficiency in Soliworks, MS Excel, AutoCAD, and ERP/project management tools (e.g., Tally ERP, SAP, Zoho Projects).
+* Good coordination skills across departments (design, procurement, and execution).
+* Detail\\-oriented with excellent documentation and follow\\-up skills.
+
+**Preferred Skills:**
+
+* Experience working with retail clients (e.g., apparel brands, food chains, showrooms).
+* Familiarity with modular furniture and on\\-site joinery BOMs.
+
+Knowledge of interior construction methods and cost\\-effective material alternatives.
+
+Job Types: Full\\-time, Permanent
+
+Pay: ₹20,000\\.00 \\- ₹30,000\\.00 per month
+
+Benefits:
+
+* Provident Fund
+
+Work Location: In person","","https://in.indeed.com/cmp/Satin-Neo-Dimensions-Pvt-Ltd-1","","","","","","","","","","","",""
+"in-39c2479a2afba1d4","indeed","https://in.indeed.com/viewjob?jk=39c2479a2afba1d4","https://careers.micron.com/careers/job/39587551?utm_source=indeed&domain=micron.com","Staff Engineer - SSD Firmware Validation","Micron Technology","KA, IN","2026-01-13","","","","","","",False,"","","","_india@micron.com","**Our vision is to transform how the world uses information to enrich life for** ***all*****.**
+
+Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.
+
+
+As an **SSD Firmware Validation Engineer** at Micron Technology, Inc., your responsibilities will include:
+
+
+Define Test Plan/Design, test cases and develop Test Scripts to validate Firmware for Enterprise and Datacenter class NVMe SSD products. As part of Firmware Test Engineering team, you would demonstrate high degree of skills to understand one or more areas of FW: Front End, Back end/Media management, FTL or Security. You would also exhibit high degree of competency in understanding NVMe/PCIe specifications, NVMe Cloud SSD Specifications, along with understanding Customer specific requirements. You will be working in partnership with Firmware development teams through the lifecycle of the product while finding defects and validating the fixes by create grey and Whitebox tests. Be able to demonstrate success in communicating status, issues, concerns, strategies of programs and projects \\- including development of appropriate indicators. Must be able to deal with ambiguity and operate with little direction to meet defined goals. Must be able to collaborate with others to achieve goals and task completion. Comprehend and articulate validation strategies, plans and status. Review, track and document test results and sightings Drive issues to closure by interfacing/collaborating with other product development teams
+
+**Experience**:
+
+* Bachelor’s or Master’s degree in Computer Science or Engineering with 11\\+ years of experience in SSD Firmware Validation.
+* Expertise in End\\-to\\-End Storage Architecture
+* Understanding of Whitebox and grey box test methods for Enterprise / Datacenter SSD Firmware is strong plus.
+* Good hands on experience in debugging NVMe Protocol issues using Lecroy/JDSU analyzers is highly desired.
+* Must have prepared good test plans involving access patterns, NVMe protocols, FW test hooks and VS commands for one or more following areas of FW: Front End, Back End, FTL and Security.
+* Integrate tests into an automated test environment and collaborate with test execution teams to drive validation plans/strategy.
+* Good Knowledge of Linux operating system debugging and Coding in Python.
+* Effective oral and written communication with strong analytical, problem solving, and project management skills
+* Demonstrated ability to work well with others and collaborate effectively in a team environment
+* Expert planning and tracking skills, able to see big picture, well\\-organized, focused on results, capable of managing multiple projects, excellent time management with respect to priorities and self\\-management.
+* Must have excellent knowledge of system storage and the relationship to the platform ingredients: CPU, Memory, PCIe, drivers, OS, firmware, etc.
+
+**About Micron Technology, Inc.**
+
+
+We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life *for all*. With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high\\-performance DRAM, NAND, and NOR memory and storage products through our Micron® and Crucial® brands. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence and 5G applications that unleash opportunities — from the data center to the intelligent edge and across the client and mobile user experience.  
+
+  
+
+To learn more, please visit micron.com/careers  
+
+  
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.  
+
+  
+
+To request assistance with the application process and/or for reasonable accommodations, please contact hrsupport\\_india@micron.com
+
+
+Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.
+
+
+Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.
+
+
+AI alert**:** Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.
+
+
+Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc.","","https://in.indeed.com/cmp/Micron-Technology,-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/867b4968106f790c3430e1308e93c4c7","https://www.micron.com/","Boise, ID","10,000+","more than $10B (USD)","Micron designs, develops and manufactures industry-leading memory and storage products.","","","","","",""
+"in-0dc3b3f3443d65b7","indeed","https://in.indeed.com/viewjob?jk=0dc3b3f3443d65b7","https://jobs.bmc.com/Careers/JobDetail/Sr-Mgr-DevOps-Engineering-India/46189","Sr Manager DevOps Engineering","BMC Software","MH, IN","2026-01-08","","","","","","",False,"","","","","### **Basic Information**
+
+Job Name
+Sr Mgr \\- DevOps Engineering \\- India
+Country
+India
+State
+Maharashtra
+City
+Pune
+Date Published
+08\\-Jan\\-2026
+Job ID
+46189
+Travel
+up to 10%
+Looking for details about our benefits?
+### **Description and Requirements**
+
+CareerArc Code
+CA\\-SW
+Hybrid: \\#LI\\-Hybrid
+BMC empowers nearly 80% of the Forbes Global 100 to accelerate business value, faster than humanly possible. Our industry\\-leading portfolio unlocks human and machine potential to drive business growth, innovation, and sustainable success. BMC does this in a simple and optimized way by connecting people, systems, and data that power the world’s largest organizations so they can seize a competitive advantage.
+The Control\\-M product line is BMC’s orchestration and automation platform. It helps the world's largest companies to automate time\\-sensitive, business\\-critical workflows. We orchestrate data and machine learning pipelines, supply chains, production lines, financial transactions, and other processes in complex IT environments worldwide. We continuously grow by adding and implementing the most cutting\\-edge technologies, conducting innovative Just Do It marathons, thinking about new features to add and investing in our employee training programs!
+**Sr Mgr – DevOps Engineering – New Products (Data \\& Agentic Platforms)**  
+
+We are seeking a Senior Manager of Engineering to lead and scale cloud\\-native SaaS production systems with a strong focus on Cloud Engineering, DevOps, SRE and Automation Testing. Based in Pune, this role will own the technical execution and operational excellence of multiple SaaS services running in production, including responsibility for reliability, scalability, release safety, and automated quality across versions and environments.
+This is a hands\\-on leadership role for a proven operator. You will lead teams responsible for keeping SaaS platforms stable while moving fast—owning production incidents, rollbacks, debugging complex distributed failures, and building the automation needed to reduce risk and manual effort. You will work closely with Product Engineering and Platform teams to ensure high\\-quality, continuously delivered software.  
+
+  
+
+**Here is how, through this exciting role, YOU will contribute to BMC's and your own success:**  
+
+* Lead and manage engineering teams (typically 8–15 engineers) focused on DevOps, Cloud Infrastructure, Automation Testing \\& SRE for SaaS products.
+* Own production reliability and operational readiness across multiple SaaS services and versions, including incident response, root cause analysis, and preventative improvements.
+* Drive rollback strategies, release validation, and version management for complex, continuously deployed SaaS systems.
+* Design and implement robust CI/CD pipelines with strong automated test coverage at unit, integration, system, and end\\-to\\-end levels.
+* Establish automation\\-first practices for environment provisioning, test execution, deployment, monitoring, and recovery.
+* Lead debugging and troubleshooting efforts for distributed systems in production, partnering closely with development teams.
+* Build and evolve cloud infrastructure using infrastructure\\-as\\-code, ensuring scalability, security, and cost efficiency.
+* Champion SRE principles: SLOs, SLIs, error budgets, resilience testing, and operational metrics.
+* Partner with Product and Engineering leaders to balance delivery speed with reliability, quality, and operational risk.
+* Mentor senior engineers and technical leads, raising the bar for operational excellence and engineering discipline.
+* Act as the point of accountability for production health, escalating risks early and driving corrective action.
+  
+
+**To ensure you’re set up for success, you will bring the following skillset \\& experience:*** 10\\+ years of experience building and operating SaaS products in production environments.
+* 5\\+ years of engineering leadership experience, managing teams responsible for production systems.
+* Strong hands\\-on background in SRE, DevOps, and Cloud Engineering (AWS, Azure, or GCP).
+* Demonstrated experience handling production incidents, rollbacks, postmortems, and long\\-term reliability improvements.
+* Deep experience with CI/CD systems and automated testing frameworks, with a strong bias toward test automation over manual processes.
+* Proven ability to design and maintain automation and integration tests for distributed cloud\\-native systems.
+* Experience managing multiple active versions of SaaS products in production.
+* Strong debugging skills across services, infrastructure, and pipelines.
+* Practical experience with containers, Kubernetes, and infrastructure\\-as\\-code tools.
+* Ability to operate effectively in fast\\-moving environments with real production consequences.
+* Direct, accountable leadership style with comfort owning operational outcomes.
+* Bachelor’s or master’s degree in computer science, Engineering, or a related field.
+
+  
+
+**Whilst these are nice to have, our team can help you develop in the following skills:**  
+
+* Prior experience with BMC’s software stack and internal platforms
+* Formal SRE or cloud certifications
+  
+
+**Our commitment to you!**
+
+  
+
+BMC’s culture is built around its people. We have 6000\\+ brilliant minds working together across the globe. You won’t be known just by your employee number, but for your true authentic self. BMC lets you be YOU!
+
+  
+
+If after reading the above, You’re unsure if you meet the qualifications of this role but are deeply excited about BMC and this team, we still encourage you to apply! We want to attract talents from diverse backgrounds and experience to ensure we face the world together with the best ideas!
+
+  
+
+BMC is committed to equal opportunity employment regardless of race, age, sex, creed, color, religion, citizenship status, sexual orientation, gender, gender expression, gender identity, national origin, disability, marital status, pregnancy, disabled veteran or status as a protected veteran. If you need a reasonable accommodation for any part of the application and hiring process, visit the accommodation request page.
+
+
+BMC Software maintains a strict policy of not requesting any form of payment in exchange for employment opportunities, upholding a fair and ethical hiring process.  
+
+At BMC we believe in pay transparency and have set the midpoint of the salary band for this role at INR. Actual salaries depend on a wide range of factors that are considered in making compensation decisions, including but not limited to skill sets; experience and training, licensure, and certifications; and other business and organizational needs.  
+
+The salary listed is just one component of BMC's employee compensation package. Other rewards may include a variable plan and country specific benefits.  
+
+We are committed to ensuring that our employees are paid fairly and equitably, and that we are transparent about our compensation practices.  
+
+
+  
+
+  
+
+  
+
+(**Returnship@BMC**)
+Had a break in your career? No worries. This role is eligible for candidates who have taken a break in their career and want to re\\-enter the workforce. If your expertise matches the above job, visit to https://bmcrecruit.avature.net/returnship know more and how to apply.
+Min salary
+4,728,000
+**Our commitment to you!**
+
+  
+
+BMC’s culture is built around its people. We have 6000\\+ brilliant minds working together across the globe. You won’t be known just by your employee number, but for your true authentic self. BMC lets you be YOU!
+
+  
+
+If after reading the above, You’re unsure if you meet the qualifications of this role but are deeply excited about BMC and this team, we still encourage you to apply! We want to attract talents from diverse backgrounds and experience to ensure we face the world together with the best ideas!
+
+  
+
+BMC is committed to equal opportunity employment regardless of race, age, sex, creed, color, religion, citizenship status, sexual orientation, gender, gender expression, gender identity, national origin, disability, marital status, pregnancy, disabled veteran or status as a protected veteran. If you need a reasonable accommodation for any part of the application and hiring process, visit the accommodation request page.
+
+
+Max salary
+7,880,000
+Min Salary \\- NEW
+4,728,000
+Max Salary \\- NEW
+7,880,000","","https://in.indeed.com/cmp/Bmc-Software","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7a1ba4538ea8494eb31320910d49c0a0","http://www.bmc.com","Houston, TX","5,001 to 10,000","$1B to $5B (USD)","BMC is a global leader in innovative software solutions that enable businesses to transform into digital enterprises for the ultimate competitive advantage.","","","","","",""
+"li-4354857847","linkedin","https://www.linkedin.com/jobs/view/4354857847","","Manual Testing QA","Recro","Noida, Uttar Pradesh, India","2026-01-14","fulltime","","","","","",False,"entry level","Quality Assurance","","","**QA SDET\\-1 (Manual Testing)** 
+
+
+
+
+ 📍
+ **Noida \\| 🕒 1–4 yrs** 
+
+
+
+
+  
+
+
+
+
+
+**What you’ll do** 
+
+
+
+* Design \\& execute
+ **manual test cases** 
+ from PRDs and user flows
+* Perform
+ **functional, regression, smoke, sanity, integration \\& UAT testing**
+* Test
+ **Web \\& Mobile applications**
+* Log, track \\& validate defects; work closely with dev \\& release teams
+* Ensure
+ **end\\-to\\-end quality ownership** 
+ before \\& after releases
+* Share clear test reports and quality insights
+
+
+
+  
+
+
+
+
+
+**What we need** 
+
+
+
+* 1–4 yrs
+ **hands\\-on Manual Testing** 
+ experience
+* Strong understanding of
+ **SDLC / STLC**
+* Experience with
+ **bug tracking \\& test management tools**
+* Ability to identify
+ **edge cases, risks \\& failure scenarios**
+* Good communication \\& documentation skills
+* Strong attention to detail and quality mindset","Software Development","https://in.linkedin.com/company/recro-io","https://media.licdn.com/dms/image/v2/D560BAQH7GYOGBCj8Qg/company-logo_100_100/company-logo_100_100/0/1728907260215/recro_io_logo?e=2147483647&v=beta&t=898rSyj182aC0vqi5cZqbWQQIDumt_WpercCJsH_-TY","","","","","","","","","","",""
+"li-4353183636","linkedin","https://www.linkedin.com/jobs/view/4353183636","","Testing-Commercial functional-Senior","EY","Pune, Maharashtra, India","2026-01-14","fulltime","","","","","",False,"mid-senior level","Quality Assurance","","","At EY, we’re all in to shape your future with confidence.
+   
+
+  
+
+ We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.
+   
+
+  
+
+ Join EY and help to build a better working world.
+   
+
+  
+
+**Responsibilities:**
+* Responsible in leading a project team and monitor all the project activities from scratch.
+* Participate and lead all the status calls, Scrum calls and client meetings. Review an send out the DSR \\& WSR to stakeholders.
+* Develop and maintain robust testing strategies and processes, and ensure they are properly implemented and followed.
+* Prepare test Planning, estimation, test Strategy, Requirement gathering/analysis, prepare test scenarios \\& test scripts based on the requirements, execute the planned test cases and report the defects in tracking tool and ensure its closure through STLC process.
+* Hands on experience on test management tools like JIRA \\& ALM.
+* Working knowledge of test automation tools like Selenium, playwright etc.
+* Knowledge of API testing (Postman, SoapUI, ReadyAI)
+* Should have excellent communication skills \\& should be able to articulate concisely \\& clearly.
+* The ability to define, monitor, and report on SLAs to ensure that services meet agreed\\-upon performance and availability standards.
+* Should be ready to do an individual contributor as well as Team Leader role is what we look for.
+* Manage resources effectively ensuring on\\-time delivery of products.
+* Identify, analyse, and mitigate risks related to software quality at each phase of the software testing process.
+* Responsible for contributing to the delivery of one or more processes, solutions and/or projects by delivering agreed activities, applying judgement, and selecting appropriate methodologies to inform recommendations, considerate of success criteria, barriers, risks, and issues.
+* Accountable for meeting own targets which impact the immediate team.
+* May help coordinate the work of junior colleagues or team members.
+* Meets performance objectives and metrics set locally (client service, quality and risk management, sales and business growth, solution development and teaming etc.)
+
+
+**Skills Required:**
+* Should have experience on any of Non\\-Financial domains like Consumer Products and Retail, Health and Life Science, Telecom, Media and Entertainment, Oil and Natural Gas, Power and Utilities, Manufacturing etc.
+* 5\\-9 Years of experience in Quality Engineering
+* Should have excellent communication skills \\& should be able to articulate concisely \\& clearly.
+* Problem\\-solving skills
+* Ability to work under pressure
+* Competent technical skills
+* The ability to work in a team and individually
+* Organisational skills with the capability of working towards tight deadlines
+* Passion for working with technology.
+
+
+**EY \\| Building a better working world**
+ EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.
+   
+
+  
+
+ Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.
+   
+
+  
+
+ EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi\\-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
+"li-4354447027","linkedin","https://www.linkedin.com/jobs/view/4354447027","","Manual Testing - Technical Specialist-Testing Services","Birlasoft","","2026-01-13","fulltime","","","","","",False,"entry level","Quality Assurance","","","Area(s) of responsibility
+   
+
+  
+
+**Manual Testing JD** 
+  
+
+  
+
+* 
++ Running Test suite across the web, different browsers, and backend environment.
++ Reporting defects clearly and concisely.
++ Developing high\\-quality Test suites based on requirements defined in collaboration with our product and dev teams.
++ Using JIRA / Devops to track Test Execution, Results, and Defects.
++ Working with a functional team to ensure requirements, and acceptance criteria are clear and comprehensive.
++ Working with the Development team to identify bespoke test capabilities that need to be built into our projects.
++ Maintaining standards documentation to help accelerate our work.
++ Develop bug\\-preventive strategies with the development team using test\\-driven development and continuous integration.
++ Responding to customer incidents and resolving the issues.","IT Services and IT Consulting","https://in.linkedin.com/company/birlasoft","https://media.licdn.com/dms/image/v2/C4E0BAQFJ26tVfkJeKg/company-logo_100_100/company-logo_100_100/0/1630606173796/birlasoft_logo?e=2147483647&v=beta&t=iaT7yVn_DWZQyGzWSDPqxwt036SzCaLx0njfaMz4uKA","","","","","","","","","","",""
+"li-4354816484","linkedin","https://www.linkedin.com/jobs/view/4354816484","https://jobs.birlasoft.com/job/Bengaluru-Manual-Testing-Technical-Specialist-Testing-Services-INDI/49485944/&urlHash=Oz3E","Manual Testing Technical Specialist-Testing Services","Birlasoft","","2026-01-13","fulltime","","","","","",False,"entry level","Quality Assurance","","","Area(s) of responsibility
+   
+
+  
+
+ Manual Testing JD
+   
+
+  
+
+* Running Test suite across the web, different browsers, and backend environment.
+* Reporting defects clearly and concisely.
+* Developing high\\-quality Test suites based on requirements defined in collaboration with our product and dev teams.
+* Using JIRA / Devops to track Test Execution, Results, and Defects.
+* Working with a functional team to ensure requirements, and acceptance criteria are clear and comprehensive.
+* Working with the Development team to identify bespoke test capabilities that need to be built into our projects.
+* Maintaining standards documentation to help accelerate our work.
+* Develop bug\\-preventive strategies with the development team using test\\-driven development and continuous integration.
+* Responding to customer incidents and resolving the issues.","IT Services and IT Consulting","https://in.linkedin.com/company/birlasoft","https://media.licdn.com/dms/image/v2/C4E0BAQFJ26tVfkJeKg/company-logo_100_100/company-logo_100_100/0/1630606173796/birlasoft_logo?e=2147483647&v=beta&t=iaT7yVn_DWZQyGzWSDPqxwt036SzCaLx0njfaMz4uKA","","","","","","","","","","",""
+"li-4354776748","linkedin","https://www.linkedin.com/jobs/view/4354776748","","Manual Testing - Technical Lead-Testing Services","Birlasoft","","2026-01-13","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Area(s) of responsibility
+   
+
+  
+
+* 
++ Overall 10\\+ Years Industry Experience including Functional/Manual Testing as a Test lead.
++ Leading teams of 5\\- 10 people and able to estimate testing work for the team based on story/ feature documents.
++ Lead and monitor the analysis, design, implementation and execution of the test cases and test procedures
++ Write summary reports on test status.Running Test suite across the web, different browsers, and backend environment.
++ Reporting defects clearly and concisely.Developing high\\-quality Test suites based on requirements defined in collaboration with our product and dev teams.Using JIRA / Devops to track Test Execution, Results, and Defects.
++ Working with a functional team to ensure requirements, and acceptance criteria are clear and comprehensive.Working with the Development team to identify bespoke test capabilities that need to be built into our projects.Maintaining standards documentation to help accelerate our work.
++ Develop bug\\-preventive strategies with the development team using test\\-driven development and continuous integration.Responding to customer incidents and resolving the issues.","IT Services and IT Consulting","https://in.linkedin.com/company/birlasoft","https://media.licdn.com/dms/image/v2/C4E0BAQFJ26tVfkJeKg/company-logo_100_100/company-logo_100_100/0/1630606173796/birlasoft_logo?e=2147483647&v=beta&t=iaT7yVn_DWZQyGzWSDPqxwt036SzCaLx0njfaMz4uKA","","","","","","","","","","",""
+"li-4354436993","linkedin","https://www.linkedin.com/jobs/view/4354436993","","Manual Testing Sr Technical Lead-Testing Services","Birlasoft","","2026-01-13","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Area(s) of responsibility
+   
+
+  
+
+* Overall 10\\+ Years Industry Experience including Functional/Manual Testing.
+* Experience on Manual Testing as a Test lead \\& Leading teams of 5\\- 10 people and able to resolve/ address/ route functional/ technical queries from test team.
+* Able to estimate testing work for the team based on story/ feature documents.
+* Lead and monitor the analysis, design, implementation and execution of the test cases and test procedures
+* Write summary reports on test status \\& Running Test suite across the web, different browsers, and backend environment \\& Reporting defects concisely.
+* Developing high\\-quality Test suites based on requirements defined in collaboration with our product and dev teams.
+* Using JIRA / Devops to track Test Execution, Results, and Defects.
+* Working with a functional team to ensure requirements, and acceptance criteria are clear and comprehensive.
+* Working with the Development team to identify bespoke test capabilities that need to be built into our projects.
+* Maintaining standards documentation to help accelerate our work.
+* Develop bug\\-preventive strategies with the development team using test\\-driven development and continuous integration.","IT Services and IT Consulting","https://in.linkedin.com/company/birlasoft","https://media.licdn.com/dms/image/v2/C4E0BAQFJ26tVfkJeKg/company-logo_100_100/company-logo_100_100/0/1630606173796/birlasoft_logo?e=2147483647&v=beta&t=iaT7yVn_DWZQyGzWSDPqxwt036SzCaLx0njfaMz4uKA","","","","","","","","","","",""
+"li-4354806831","linkedin","https://www.linkedin.com/jobs/view/4354806831","","Manual Testing Sr Technical Lead-Testing Services","Birlasoft","","2026-01-13","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Area(s) of responsibility
+   
+
+  
+
+* Overall 10\\+ Years Industry Experience including Functional/Manual Testing.
+* Experience on Manual Testing as a Test lead \\& Leading teams of 5\\- 10 people and able to resolve/ address/ route functional/ technical queries from test team.
+* Able to estimate testing work for the team based on story/ feature documents.
+* Lead and monitor the analysis, design, implementation and execution of the test cases and test procedures
+* Write summary reports on test status \\& Running Test suite across the web, different browsers, and backend environment \\& Reporting defects concisely.
+* Developing high\\-quality Test suites based on requirements defined in collaboration with our product and dev teams.
+* Using JIRA / Devops to track Test Execution, Results, and Defects.
+* Working with a functional team to ensure requirements, and acceptance criteria are clear and comprehensive.
+* Working with the Development team to identify bespoke test capabilities that need to be built into our projects.
+* Maintaining standards documentation to help accelerate our work.
+* Develop bug\\-preventive strategies with the development team using test\\-driven development and continuous integration.","IT Services and IT Consulting","https://in.linkedin.com/company/birlasoft","https://media.licdn.com/dms/image/v2/C4E0BAQFJ26tVfkJeKg/company-logo_100_100/company-logo_100_100/0/1630606173796/birlasoft_logo?e=2147483647&v=beta&t=iaT7yVn_DWZQyGzWSDPqxwt036SzCaLx0njfaMz4uKA","","","","","","","","","","",""
+"li-4354880455","linkedin","https://www.linkedin.com/jobs/view/4354880455","https://jobs.birlasoft.com/job/Bengaluru-Manual-%2B-API-Testing-Technical-Lead-Testing-Services-INDI/46471944/&urlHash=9CCl","Manual + API Testing Technical Lead-Testing Services","Birlasoft","","2026-01-13","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Area(s) of responsibility
+   
+
+  
+
+**Manual \\+ API JD**
+* Analyze requirements and create detailed, comprehensive, and well\\-structured test cases.
+* Perform manual testing of web applications across various platforms.
+* Execute API testing using tools like Postman, Swagger, or similar.
+* Validate RESTful APIs for functionality, reliability, performance, and security.
+* Identify, document, and track bugs using tools like JIRA, Bugzilla, Test Rail or similar.
+* Collaborate with developers, product managers, and other stakeholders to ensure quality throughout the software development lifecycle.
+* Participate in regression, smoke, and sanity testing cycles.
+* Provide feedback and suggestions for continuous improvement of testing processes.
+
+
+**Required Skills**
+* 8\\-10 years of experience in manual testing.
+* Hands\\-on experience with API testing tools (e.g., Postman, SoapUI).
+* Strong understanding of HTTP methods, status codes, and JSON/XML formats.
+* Familiarity with SDLC and STLC.
+* Good analytical and problem\\-solving skills.","IT Services and IT Consulting","https://in.linkedin.com/company/birlasoft","https://media.licdn.com/dms/image/v2/C4E0BAQFJ26tVfkJeKg/company-logo_100_100/company-logo_100_100/0/1630606173796/birlasoft_logo?e=2147483647&v=beta&t=iaT7yVn_DWZQyGzWSDPqxwt036SzCaLx0njfaMz4uKA","","","","","","","","","","",""
+"li-4361571719","linkedin","https://www.linkedin.com/jobs/view/4361571719","","Software Engineer-Manual Testing","Caterpillar Inc.","Chennai, Tamil Nadu, India","2026-01-13","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Career Area**
+ Technology, Digital and Data
+   
+
+  
+
+**Job Description**
+**Your Work Shapes the World at Caterpillar Inc.**
+ When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
+   
+
+  
+
+**Core Skills**
+* Manual Testing Expertise: Proven experience in functional, regression, integration, and system testing for web and mobile applications. Ability to design detailed test cases and execute them effectively.
+* API testing: Hands\\-on experience in creating, managing, and validating experience with Karate Basic understanding of AWS services (such as EC2, S3, Lambda, CloudWatch).
+* Tools Proficiency: Strong working knowledge of Azure Test Plans, JIRA, Zephyr, or equivalent test management and bug tracking tools.
+* Automated testing : Ability to design, maintain an E2E automation pack with playwright (java/Javascript/Typescript)
+* Root Cause Analysis: Strong analytical and problem\\-solving skills to identify defects, perform impact analysis, and collaborate on fixes.
+* Cross\\-functional Collaboration: Demonstrated experience working closely with developers, product managers, and DevOps teams to ensure quality throughout the SDLC.
+* Domain Knowledge: Familiarity with eCommerce platforms, workflows, payment gateways, and customer journey testing is highly desirable.
+
+
+**Key Responsibilities**
+* Test Strategy \\& Planning: Define and implement robust test strategies, detailed test plans, and test cases aligned with functional and non\\-functional requirements.
+* Test Execution \\& Optimization: Drive test execution, optimize test coverage, and ensure efficient test environment setup.
+* Defect Management: Log, track, and validate defects; perform root cause analysis and ensure timely resolution.
+* Collaboration \\& Communication: Actively participate in scrum ceremonies, provide QA sign\\-offs, and maintain clear communication with cross\\-functional teams.
+* Automation Readiness: Support the implementation and maintenance of automation frameworks by identifying areas for automation and collaborating with automation engineers.
+* Release Quality: Ensure timely delivery of high\\-quality releases in a fast\\-paced eCommerce environment, adhering to sprint timelines.
+
+
+**Posting Dates**
+ January 13, 2026 \\- January 19, 2026
+   
+
+  
+
+ Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply
+   
+
+  
+
+ Not ready to apply? Join our Talent Community.","Construction and Machinery Manufacturing","https://www.linkedin.com/company/caterpillar-inc","https://media.licdn.com/dms/image/v2/D4E0BAQGezvfCH-inoA/company-logo_100_100/B4EZuz4cAhKgAU-/0/1768249475691/caterpillar_inc_logo?e=2147483647&v=beta&t=lWh93R_F-WvaRwOz6OwdZdT7vigzIsyVWpNqEXHfM7w","","","","","","","","","","",""
+"li-4352850890","linkedin","https://www.linkedin.com/jobs/view/4352850890","https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/322090/?utm_medium=jobboard&utm_source=LinkedIn&urlHash=_cdm","Prinicipal Funtional Tester (Payments)","Oracle","Bengaluru, Karnataka, India","2026-01-13","fulltime","","","","","",False,"mid-senior level","Consulting","","_mb@oracle.com","**Job Description**
+**Job Responsibilities:**
+ As an integral part of the testing team, you will be responsible for the following –
+   
+
+  
+
+* To understand the business requirements in the core banking payments domain.
+* Review and understand the Functional specifications.
+* Prepare proposals, create presentations, and provide other sales support.
+* Prepare test cases for both functional and interface testing across Agile and waterfall projects ensuring one hundred percent test coverage.
+* Timely execution of test cases to ensure that the developed application satisfy the client requirements.
+* Raise quality issues to ensure minimum defect leakage and track it till closure.
+* Review User Manuals and Help files prepared for the software.
+* Understand internal policies and procedures and comply with it.
+
+
+**Mandatory Skills:**
+* 6 to 10 years of experience in banking domain with expertise in payments.
+* Should have a strong penchant for quality and produce high\\-grade deliverables within the stipulated timeframe.
+* Solid understanding of SDLC and the Testing life cycle.
+* Should be enterprising, a self\\-starter and willing to learn new concepts and product functionality with minimal handholding.
+* Experience in estimations, creating presentations and preparing proposals.
+* Should have excellent oral and written communication skills.
+* The candidate should have the ability to build rapport with internal/cross\\-functional team members and clients.
+* Ability to travel as needed.
+* Ability to work under pressure \\- quick thinking and remaining calm during stressful situations.
+* Willingness to work in shifts and on weekends.
+* Appetite to learn new technologies and constantly improve skills. If you have the above skills, take up the below list of self\\-test questions to know if you qualify to apply.
+
+
+**Responsibilities**
+**Good to have Skills:**
+* Oracle FLEXCUBE application / Oracle Banking application knowledge in payments.
+* Experience in test automation.
+
+
+**Self\\-Test Questions:**
+ Are you familiar with payment systems like NEFT, RTGS, SWIFT, SEPA \\& ACH.
+   
+
+  
+
+ Do you have knowledge of payment life cycles, settlement systems and clearing mechanisms.
+   
+
+  
+
+ Do you have experience working with customers to understand their business requirements and prepare end\\-to\\-end business scenarios and map them to test conditions.
+   
+
+  
+
+ Do you have experience in test design, test data preparation and defect lifecycle.
+   
+
+  
+
+ Do you have hands\\-on experience of testing payments functionality in core banking application interfacing with other external upstream \\& downstream systems.
+   
+
+  
+
+ How do you rate yourself in Core Banking – Payment’s domain? (Should be 4 or 5 out of 5\\)
+   
+
+  
+
+**Qualifications**
+ Career Level \\- IC3
+   
+
+  
+
+**About Us**
+ As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s challenges. We’ve partnered with industry\\-leaders in almost every sector—and continue to thrive after 40\\+ years of change by operating with integrity.
+   
+
+  
+
+ We know that true innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing an inclusive workforce that promotes opportunities for all.
+   
+
+  
+
+ Oracle careers open the door to global opportunities where work\\-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+   
+
+  
+
+ We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation\\-request\\_mb@oracle.com or by calling \\+1 888 404 2494 in the United States.
+   
+
+  
+
+ Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.","IT Services and IT Consulting","https://www.linkedin.com/company/oracle","https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c","","","","","","","","","","",""
+"li-4354786348","linkedin","https://www.linkedin.com/jobs/view/4354786348","","Quality Assurance (QA) Engineer","Indus | Investing in India from Anywhere","","2026-01-13","fulltime","","","","","",True,"entry level","Quality Assurance","","","**About Indus** 
+
+
+ Indus is a mobile\\-first fintech platform used by thousands of global Indians to invest seamlessly in Indian markets. By disposition of being a mobile\\-first fintech platform where reliability and trust are non\\-negotiable.
+ 
+
+
+
+
+  
+
+
+
+
+
+
+ Our users rely on us for high\\-stakes financial actions, which means quality must be intentional, consistent, and owned.
+ 
+
+
+
+
+  
+
+
+
+
+
+
+ We’re looking for a QA Engineer with
+ 
+**at least 2 years of hands\\-on experience** 
+
+ , strong
+ 
+**Flutter app testing experience** 
+
+ , and a background in
+ 
+**fintech, payments, or other high\\-trust products** 
+
+ , who can combine
+ 
+**manual testing with automation** 
+
+ across mobile, web, and admin surfaces.
+ 
+
+
+
+
+  
+
+
+
+
+**What you’ll own**
+
+
+ Quality across:
+ 
+
+
+
+* **Android app**
+* **iOS app**
+* **Web app**
+
+
+
+  
+
+
+
+
+
+
+ This is an
+ 
+**end\\-to\\-end, user\\-facing QA role** 
+
+ (no API\\-only testing).
+ 
+
+
+
+
+  
+
+
+
+
+**What you’ll do** 
+* Manually test new features, enhancements, and bug fixes
+
+
+
+  
+
+
+
+
+* Own
+ 
+**regression testing** 
+
+ before every release
+
+
+
+  
+
+
+
+
+* Design, build, and maintain
+ 
+**automated test coverage** 
+
+ (mobile \\+ web)
+
+
+
+  
+
+
+
+
+* Test
+ 
+**Flutter\\-based mobile apps** 
+
+ across Android and iOS devices
+
+
+
+  
+
+
+
+
+* Validate web functionality across browsers and screen sizes
+
+
+
+  
+
+
+
+
+* Test admin workflows, permissions, and edge cases
+
+
+
+  
+
+
+
+
+* Identify edge cases in critical financial flows (onboarding, KYC, payments, SIPs, withdrawals)
+
+
+
+  
+
+
+
+
+* Create clear, actionable bug reports with repro steps, evidence, and context
+
+
+
+  
+
+
+
+
+* Work closely with developers during sprint cycles and release planning
+
+
+
+  
+
+
+
+
+* Continuously improve QA processes, checklists, and release confidence
+
+
+
+  
+
+
+
+
+**Tech stack**
+* **Mobile:** 
+
+ Flutter (Android \\& iOS)
+
+
+
+  
+
+
+
+
+* **Web:** 
+
+ Next.js
+
+
+
+  
+
+
+
+
+* **Focus:** 
+
+ Mobile\\-first, with web as a core surface
+
+
+
+  
+
+
+
+
+* **Testing:** 
+
+ Manual \\+ Automation
+
+
+
+  
+
+
+
+
+* **APIs:** 
+
+ Tested indirectly via UI flows
+
+
+
+  
+
+
+
+
+**What we’re looking for (Must\\-haves)**
+* **Minimum 2 years of professional QA experience**
+
+
+
+  
+
+
+
+
+* Proven experience
+ 
+**testing Flutter applications**
+
+
+
+  
+
+
+
+
+* Experience testing
+ 
+**Android and iOS apps**
+
+
+
+  
+
+
+
+
+* Experience testing
+ 
+**web applications**
+
+
+
+  
+
+
+
+
+* Experience working on
+ 
+**fintech, payments, or other high\\-trust products**
+
+
+
+  
+
+
+
+
+* Strong
+ 
+**manual testing** 
+
+ fundamentals
+
+
+
+  
+
+
+
+
+* Hands\\-on experience with
+ 
+**test automation**
+
+
+
+  
+
+
+
+
+* Solid understanding of
+ 
+**regression testing**
+
+
+
+  
+
+
+
+
+* Ability to think in
+ 
+**end\\-to\\-end user journeys**
+
+
+
+  
+
+
+
+
+* High\\-quality bug reporting and communication skills
+
+
+
+  
+
+
+
+
+* Comfortable working in a
+ 
+**fully remote** 
+
+ environment
+
+
+
+  
+
+
+
+
+**What success looks like**
+* High confidence releases with minimal production issues
+
+
+
+  
+
+
+
+
+* Stable critical flows with few regressions
+
+
+
+  
+
+
+
+
+* Automation improves reliability rather than adding noise
+
+
+
+  
+
+
+
+
+* Developers trust QA feedback and release sign\\-off
+
+
+
+  
+
+
+
+
+**How we work**
+* Fully remote
+
+
+
+  
+
+
+
+
+* High ownership, low bureaucracy
+
+
+
+  
+
+
+
+
+* QA has a strong voice in release quality
+
+
+
+  
+
+
+
+
+* We optimise for trust, stability, and long\\-term reliability","Financial Services","https://nz.linkedin.com/company/investindus","https://media.licdn.com/dms/image/v2/D560BAQGV2tLYBYtrmg/company-logo_100_100/company-logo_100_100/0/1738141881073/investindus_logo?e=2147483647&v=beta&t=4PHOMf7VMLolqK7cH3MNv-GiWF0V4a-ZaUpao0hKyis","","","","","","","","","","",""
+"li-4352950282","linkedin","https://www.linkedin.com/jobs/view/4352950282","","Risk QA Engineer","Stratacent","Pune, Maharashtra, India","2026-01-13","fulltime","","","","","",False,"mid-senior level","Quality Assurance","","","**Job Title: Risk QA Engineer** 
+
+
+
+
+**Job Location: Pune** 
+
+
+
+
+**Employment Type: Full Time** 
+
+
+
+
+**Shift Time: UK Shift** 
+
+
+
+
+  
+
+
+
+
+
+**Job Summary:** 
+
+
+
+
+ We are looking for a detail\\-oriented and experienced
+ **Risk QA Engineer** 
+ with a strong foundation in
+ **Risk and Governance** 
+ . The ideal candidate will have a minimum of
+ **5\\+ years** 
+ of experience and hands\\-on expertise in risk management tools such as
+ **Archer, OpenPages, and ServiceNow** 
+ . This role will focus on ensuring the quality and reliability of GRC (Governance, Risk, and Compliance) systems and workflows through robust testing practices and risk domain understanding.
+ 
+
+
+* **Key Responsibilities:** 
+ Design, develop, and execute test strategies and test plans for risk and governance\\-related applications.
+* Perform functional, regression, integration, and UAT testing of GRC tools including Archer, OpenPages, and ServiceNow.
+* Collaborate with business analysts, developers, and risk management teams to ensure accurate interpretation of risk requirements and proper test coverage.
+* Validate workflows, configurations, and data flows in risk platforms to ensure alignment with compliance standards.
+* Identify, log, and track defects using standard QA tools and work with development teams to ensure timely resolution.
+* Maintain and update test documentation in line with audit and compliance expectations.
+* Contribute to continuous improvement of QA processes and risk tool performance.
+* Support automation of testing where applicable to improve efficiency and repeatability.
+* **Qualifications \\& Requirements:** 
+ Bachelor's degree in computer science, Information Systems, Risk Management, or a related field.
+* **Minimum 5\\+ years** 
+ of QA experience with a focus on risk and governance systems.
+* Strong understanding of
+ **risk and governance frameworks** 
+ and regulatory requirements.
+* Hands\\-on experience with
+ **risk tools** 
+ such as RSA Archer, IBM OpenPages, and ServiceNow GRC.
+* Familiarity with QA methodologies, tools, and best practices.
+* Strong analytical and problem\\-solving skills with an eye for detail.
+* Excellent communication skills and ability to work across functional teams.
+
+
+
+  
+
+
+
+
+* **Preferred Qualifications:** 
+ Knowledge of GRC standards (e.g., ISO 31000, NIST, COSO).
+* Experience with test automation tools and scripting is a plus.
+* Certifications such as ISTQB, CRISC, or similar are advantageous.","Information Technology & Services","https://www.linkedin.com/company/stratacent","https://media.licdn.com/dms/image/v2/C4E0BAQH1snl-lHWGGg/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630647009799/stratacent_logo?e=2147483647&v=beta&t=VU5m8kp37Hg5IF1NU-DQ_ckN33TgxFRldJls6YrpJ2w","","","","","","","","","","",""
+"li-4352774549","linkedin","https://www.linkedin.com/jobs/view/4352774549","https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/322090/?utm_medium=jobboard&utm_source=LinkedIn&urlHash=_cdm","Prinicipal Funtional Tester (Payments)","Oracle","Trivandrum, Kerala, India","2026-01-13","fulltime","","","","","",False,"mid-senior level","Consulting","","_mb@oracle.com","**Job Description**
+**Job Responsibilities:**
+ As an integral part of the testing team, you will be responsible for the following –
+   
+
+  
+
+* To understand the business requirements in the core banking payments domain.
+* Review and understand the Functional specifications.
+* Prepare proposals, create presentations, and provide other sales support.
+* Prepare test cases for both functional and interface testing across Agile and waterfall projects ensuring one hundred percent test coverage.
+* Timely execution of test cases to ensure that the developed application satisfy the client requirements.
+* Raise quality issues to ensure minimum defect leakage and track it till closure.
+* Review User Manuals and Help files prepared for the software.
+* Understand internal policies and procedures and comply with it.
+
+
+**Mandatory Skills:**
+* 6 to 10 years of experience in banking domain with expertise in payments.
+* Should have a strong penchant for quality and produce high\\-grade deliverables within the stipulated timeframe.
+* Solid understanding of SDLC and the Testing life cycle.
+* Should be enterprising, a self\\-starter and willing to learn new concepts and product functionality with minimal handholding.
+* Experience in estimations, creating presentations and preparing proposals.
+* Should have excellent oral and written communication skills.
+* The candidate should have the ability to build rapport with internal/cross\\-functional team members and clients.
+* Ability to travel as needed.
+* Ability to work under pressure \\- quick thinking and remaining calm during stressful situations.
+* Willingness to work in shifts and on weekends.
+* Appetite to learn new technologies and constantly improve skills. If you have the above skills, take up the below list of self\\-test questions to know if you qualify to apply.
+
+
+**Responsibilities**
+**Good to have Skills:**
+* Oracle FLEXCUBE application / Oracle Banking application knowledge in payments.
+* Experience in test automation.
+
+
+**Self\\-Test Questions:**
+ Are you familiar with payment systems like NEFT, RTGS, SWIFT, SEPA \\& ACH.
+   
+
+  
+
+ Do you have knowledge of payment life cycles, settlement systems and clearing mechanisms.
+   
+
+  
+
+ Do you have experience working with customers to understand their business requirements and prepare end\\-to\\-end business scenarios and map them to test conditions.
+   
+
+  
+
+ Do you have experience in test design, test data preparation and defect lifecycle.
+   
+
+  
+
+ Do you have hands\\-on experience of testing payments functionality in core banking application interfacing with other external upstream \\& downstream systems.
+   
+
+  
+
+ How do you rate yourself in Core Banking – Payment’s domain? (Should be 4 or 5 out of 5\\)
+   
+
+  
+
+**Qualifications**
+ Career Level \\- IC3
+   
+
+  
+
+**About Us**
+ As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s challenges. We’ve partnered with industry\\-leaders in almost every sector—and continue to thrive after 40\\+ years of change by operating with integrity.
+   
+
+  
+
+ We know that true innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing an inclusive workforce that promotes opportunities for all.
+   
+
+  
+
+ Oracle careers open the door to global opportunities where work\\-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+   
+
+  
+
+ We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation\\-request\\_mb@oracle.com or by calling \\+1 888 404 2494 in the United States.
+   
+
+  
+
+ Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.","IT Services and IT Consulting","https://www.linkedin.com/company/oracle","https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c","","","","","","","","","","",""
+"li-4352774550","linkedin","https://www.linkedin.com/jobs/view/4352774550","https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/322090/?utm_medium=jobboard&utm_source=LinkedIn&urlHash=_cdm","Prinicipal Funtional Tester (Payments)","Oracle","Chennai, Tamil Nadu, India","2026-01-13","fulltime","","","","","",False,"mid-senior level","Consulting","","_mb@oracle.com","**Job Description**
+**Job Responsibilities:**
+ As an integral part of the testing team, you will be responsible for the following –
+   
+
+  
+
+* To understand the business requirements in the core banking payments domain.
+* Review and understand the Functional specifications.
+* Prepare proposals, create presentations, and provide other sales support.
+* Prepare test cases for both functional and interface testing across Agile and waterfall projects ensuring one hundred percent test coverage.
+* Timely execution of test cases to ensure that the developed application satisfy the client requirements.
+* Raise quality issues to ensure minimum defect leakage and track it till closure.
+* Review User Manuals and Help files prepared for the software.
+* Understand internal policies and procedures and comply with it.
+
+
+**Mandatory Skills:**
+* 6 to 10 years of experience in banking domain with expertise in payments.
+* Should have a strong penchant for quality and produce high\\-grade deliverables within the stipulated timeframe.
+* Solid understanding of SDLC and the Testing life cycle.
+* Should be enterprising, a self\\-starter and willing to learn new concepts and product functionality with minimal handholding.
+* Experience in estimations, creating presentations and preparing proposals.
+* Should have excellent oral and written communication skills.
+* The candidate should have the ability to build rapport with internal/cross\\-functional team members and clients.
+* Ability to travel as needed.
+* Ability to work under pressure \\- quick thinking and remaining calm during stressful situations.
+* Willingness to work in shifts and on weekends.
+* Appetite to learn new technologies and constantly improve skills. If you have the above skills, take up the below list of self\\-test questions to know if you qualify to apply.
+
+
+**Responsibilities**
+**Good to have Skills:**
+* Oracle FLEXCUBE application / Oracle Banking application knowledge in payments.
+* Experience in test automation.
+
+
+**Self\\-Test Questions:**
+ Are you familiar with payment systems like NEFT, RTGS, SWIFT, SEPA \\& ACH.
+   
+
+  
+
+ Do you have knowledge of payment life cycles, settlement systems and clearing mechanisms.
+   
+
+  
+
+ Do you have experience working with customers to understand their business requirements and prepare end\\-to\\-end business scenarios and map them to test conditions.
+   
+
+  
+
+ Do you have experience in test design, test data preparation and defect lifecycle.
+   
+
+  
+
+ Do you have hands\\-on experience of testing payments functionality in core banking application interfacing with other external upstream \\& downstream systems.
+   
+
+  
+
+ How do you rate yourself in Core Banking – Payment’s domain? (Should be 4 or 5 out of 5\\)
+   
+
+  
+
+**Qualifications**
+ Career Level \\- IC3
+   
+
+  
+
+**About Us**
+ As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s challenges. We’ve partnered with industry\\-leaders in almost every sector—and continue to thrive after 40\\+ years of change by operating with integrity.
+   
+
+  
+
+ We know that true innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing an inclusive workforce that promotes opportunities for all.
+   
+
+  
+
+ Oracle careers open the door to global opportunities where work\\-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+   
+
+  
+
+ We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation\\-request\\_mb@oracle.com or by calling \\+1 888 404 2494 in the United States.
+   
+
+  
+
+ Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.","IT Services and IT Consulting","https://www.linkedin.com/company/oracle","https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c","","","","","","","","","","",""
+"li-4306123644","linkedin","https://www.linkedin.com/jobs/view/4306123644","","Verification & Validation Engineer","Radiometer","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"not applicable","Quality Assurance","","","Bring more to life.
+   
+
+  
+
+ Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?
+   
+
+  
+
+ At Radiometer, one of Danaher’s 15\\+ operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact.
+   
+
+  
+
+ You’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing Danaher’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.
+   
+
+  
+
+ At Radiometer, life comes first. Our vision is to improve global healthcare with reliable, fast, and easy patient diagnoses. As a global leader and pioneer in acute care diagnostics for over 70 years, we streamline diagnostic workflows, empowering healthcare professionals to focus on what truly matters—caring for critically ill patients. We’re a team that celebrates diverse ideas and continuous improvement. Here, you’ll find a place to grow and make a real impact with your unique perspective, driving us forward in improving patient care.
+   
+
+  
+
+ Learn about the Danaher Business System which makes everything possible.
+   
+
+  
+
+ As part of our strategic expansion and increased capacity at our India site, we are establishing a new team and are currently seeking a Verification \\& Validation Engineer to take on a pivotal role—combining technical expertise with team leadership responsibilities.
+   
+
+  
+
+ In this role, you will lead a small team of lab technicians and be accountable for the integration, verification, and system performance validation of Radiometer products. You will also oversee the planning and execution of activities within our dedicated lab facility, ensuring high standards of quality and compliance.
+   
+
+  
+
+ If you are passionate about working with complex systems and bring experience in the verification, validation, and testing of medical devices, this is a unique opportunity to make a significant impact in a dynamic and growing environment.
+   
+
+  
+
+ This position reports to the R\\&D Director, ACDx Systems Releases Department and is part of the Bangalore Development Center located in Bangalore, India. The role is designated as full\\-time, on\\-site.
+   
+
+  
+
+ In this dynamic and impactful role, you will have the opportunity to:
+   
+
+  
+
+* Collaborate with cross\\-functional development teams to ensure products meet rigorous performance and compliance standards.
+* Design and implement robust verification strategies and plans, balancing quality, risk, and cost\\-effectiveness.
+* Author verification and validation protocols, conduct thorough data analysis, and compile comprehensive reports aligned with global regulatory standards.
+* Monitor and follow up on test results, providing timely updates and insights to project managers and leadership.
+* Establish and maintain local quality control and assurance procedures in alignment with regional regulatory requirements, in collaboration with RA and QA departments.
+* Lead and manage a team of lab technicians, prioritizing and supervising daily activities within the verification and validation lab.
+* Work in close coordination with the Verification \\& Validation teams at headquarters to ensure a seamless transfer of capabilities and best practices.
+
+
+**The Essential Requirements Of The Job Include**
+* 6\\+ years of work experience in Systems Engineering;
+* Work experience in Verification \\& Validation in Medical devices or in a regulated business;
+* Master in bio\\-chemistry/molecular biology/biotechnology/bioengineering/biomedical engineering or equivalent;
+* Good knowledge in statistics and in the use of statistic methods;
+
+
+**Ability To Travel**
+* \\~ 2 months/year to the head quarter in Copenhagen
+* To the Radiometer site IDC in Bangalore (1\\-2 times/month)
+
+
+ It would be a plus if you also possess previous experience in:
+   
+
+  
+
+* Visual agile planning
+* Working with blood in a lab environment
+
+
+ Join our winning team today. Together, we’ll accelerate the real\\-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.
+   
+
+  
+
+ For more information, visit www.danaher.com.","Medical Equipment Manufacturing","https://dk.linkedin.com/company/radiometer-medical","https://media.licdn.com/dms/image/v2/D4E0BAQHF3XjC_0_moA/company-logo_100_100/B4EZvGqMwXGwAQ-/0/1768564510793/radiometer_medical_logo?e=2147483647&v=beta&t=Fj2cPJk9wi1UfJK8xIcjeloljEhbJi3tzDUnd1gQAJQ","","","","","","","","","","",""
+"li-4340240154","linkedin","https://www.linkedin.com/jobs/view/4340240154","","QA Manual Engineer/Sr. Engineer/Lead","Endava","Pune, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Company Description**
+ Technology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change.
+   
+
+  
+
+ By combining world\\-class engineering, industry expertise and a people\\-centric mindset, we consult and partner with leading brands from various industries to create dynamic platforms and intelligent digital experiences that drive innovation and transform businesses.
+   
+
+  
+
+ From prototype to real\\-world impact \\- be part of a global shift by doing work that matters.
+   
+
+  
+
+**Overview**
+ Job Description
+   
+
+  
+
+ We are looking for a skilled and experienced Manual QA Engineer / Sr. QA Engineer/Lead having hands\\-on expertise in Payments or Banking industry, utilizing any functional testing tools such as Postman, MobaxTerm, MySQL. Will play a key role in ensuring the seamless functioning of manual test suites and regression testing.
+   
+
+  
+
+ This role requires a collaborative mindset, a sharp eye for detail, and an interest in developing high\\-quality, scalable, and maintainable software systems.
+   
+
+  
+
+ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+   
+
+  
+
+ Key Responsibilities
+   
+
+  
+
+* Design, develop, and maintain manual test scripts to validate frontend and backend functionality.
+* Ensure through regression testing across integrated systems.
+* Collaborate closely with developers, testers, and business analysts to define and implement effective test strategies.
+* Execute functional, regression, (and performance tests \\- optional), ensuring product reliability.
+* Ensure proper documentation of test plans, test cases, and test results.
+* Actively contribute to improving test frameworks.
+* Participate in Agile ceremonies, providing input on estimation, planning, and refinement.
+* Identify, report, and track bugs using tools like JIRA.
+* Support and participate in code reviews and continuous integration pipelines.
+
+
+**Qualifications**
+ 4\\-12 years
+   
+
+  
+
+ Manual Testing, SQL, Unix
+   
+
+  
+
+ Database:
+   
+
+ MSSQL, QA:
+   
+
+ Manual, QA:
+   
+
+ Software Testing
+   
+
+  
+
+ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+   
+
+  
+
+**Required Skills And Qualifications**
+* Prior testing experience (at least 4 years).
+* Experience in tools such as MobaxTerm
+* 2\\+ years of experience working with databases (SQL/Oracle).
+* Solid experience with RESTful APIs, SoapUI, and Postman.
+* Experience with version control systems (Git, GitHub, Bitbucket).
+* Strong knowledge of QA methodologies, testing processes, and tools.
+* Comfortable working in Agile/Scrum environments with tools like JIRA, HP ALM, etc.
+* Excellent written and verbal communication skills.
+* Strong team player, but also capable of working independently.
+* Medium knowledge of UNIX commands is required.
+
+
+ Additional Information
+   
+
+  
+
+ At Endava, we’re committed to creating an open, inclusive, and respectful environment where everyone feels safe, valued, and empowered to be their best. We welcome applications from people of all backgrounds, experiences, and perspectives—because we know that inclusive teams help us deliver smarter, more innovative solutions for our customers. Hiring decisions are based on merit, skills, qualifications, and potential. If you need adjustments or support during the recruitment process, please let us know.","IT Services and IT Consulting","https://uk.linkedin.com/company/endava","https://media.licdn.com/dms/image/v2/D4D0BAQEJGr76AXfMUA/company-logo_100_100/company-logo_100_100/0/1706196722213/endava_logo?e=2147483647&v=beta&t=vfI3UVVnLCO2XYCpZs86u1_HCKQifzru0N_evP2gvJE","","","","","","","","","","",""
+"li-4359212159","linkedin","https://www.linkedin.com/jobs/view/4359212159","","QA Engineer 2 - Manual","SuperAGI","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"associate","Quality Assurance","","","**About us:** 
+
+
+
+
+ SuperAGI is pioneering the future of Artificial General Intelligence with groundbreaking research and innovative AI products. Our mission is to transform the future of applications through intelligent, autonomous solutions that drive unparalleled efficiency and growth. We are building a world where AI and human intelligence collaborate seamlessly to achieve extraordinary outcomes. If you are passionate about AI and eager to be part of a team that is shaping the future, SuperAGI is the place for you.
+ 
+
+
+
+  
+
+
+
+
+
+**Job Description:** 
+
+
+
+
+ We are looking for an experienced and highly skilled
+ **Senior Manual QA** 
+ to join our quality assurance team
+ **(Immediate joiners preferred)** 
+ . The ideal candidate should possess excellent analytical skills, a strong understanding of product perspectives, and a passion for ensuring high\\-quality software delivery. As a Manual Tester, you will play a crucial role in our product development process, ensuring that our software meets the highest standards of quality and performance.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+* Develop, execute, and maintain comprehensive test plans, test cases, and test scripts to ensure thorough testing of our products.
+* Perform functional, regression, integration, and user acceptance testing to identify and report defects.
+* Collaborate with developers, product managers, and other stakeholders to understand product requirements and ensure that the testing covers all critical aspects.
+* Analyse test results, identify issues, and provide clear and concise feedback to the development team.
+* Ensure timely and accurate reporting of test results and defects using test management tools.
+* Focus on process\\-oriented testing while maintaining agility and speed in test execution.
+* Drive continuous improvement in testing processes and methodologies to enhance product quality.
+* He/She Should able to debug and understand failure on automation code. Failure debugging skill set will be needed.
+
+
+
+  
+
+
+
+
+
+**Requirements:** 
+
+
+
+* Bachelor’s degree in Computer Science, Information Technology, or a related field
+* 2\\-3 years of experience in manual testing, with a proven track record of delivering high\\-quality software.
+* Strong analytical and problem\\-solving skills, with the ability to think from both a user and product perspective.
+* Experience in creating detailed, comprehensive, and well\\-structured test plans and test cases.
+* Excellent understanding of software development life cycle (SDLC) and testing methodologies.
+* Hands\\-on experience with various testing tools and techniques.
+* Ability to work independently and as part of a team, with a strong sense of ownership and accountability.
+* Detail\\-oriented with a focus on delivering high\\-quality products in a fast\\-paced environment.
+* Strong communication skills, both written and verbal.
+
+
+
+  
+
+
+
+
+
+**Preferred Qualifications:** 
+
+
+
+* Experience in testing web and mobile applications.
+* Familiarity with Agile and Scrum methodologies.
+* Knowledge of automated testing tools is a plus.","Software Development","https://www.linkedin.com/company/superagi","https://media.licdn.com/dms/image/v2/D560BAQGymLrnkKhmWw/company-logo_100_100/company-logo_100_100/0/1690271097464/superagi_logo?e=2147483647&v=beta&t=bpspaNH1g98VnRxx_2bSo7THdXd5dVQVOknqvGy1ycI","","","","","","","","","","",""
+"li-4353601559","linkedin","https://www.linkedin.com/jobs/view/4353601559","","QA Engineer","OP","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Looking for a QA Engineer who is versed in functional/application\\-level software testing to be a part of a highly talented engineering team helping to create new products and services from the ground up for the next\\-generation automation. We are looking for team members who are required to be creative in solving problems, excited to work in new technology areas, and ready to wear multiple hats to get things done in a highly energized, fast\\-paced, innovative, and collaborative startup environment.
+   
+
+  
+
+**Key Skills**
+* 5\\+ years of experience with QA and programming.
+* Experience in Quality engineering focuses on both functional \\& non\\-functional testing.
+* Behavior\\-driven development (BDD) exposure is a must.
+* Experience in cucumber/selenium for UI frontend automation and Cucumber/JavaScript for backend automation.
+* Have performed automation on multiple levels and conducted UAT Testing, load testing, or stress testing.
+* Strong background in JMeter experience for a load test.
+* Exposure to AWS experience.
+* Must have experience in testing applications on Java, Node.js, and Microservices.
+* Possess hands\\-on QA testing in an Agile environment.
+* BS/MS in Computer Science or related.
+* Excellent written and verbal communication skills.
+
+
+**Benefits**
+* Health Insurance, Accident Insurance.
+* The salary will be determined based on several factors, including, but not limited to, location, relevant education, qualifications, experience, technical skills, and business needs.
+
+
+**Additional Responsibilities**
+* Participate in OP monthly team meetings, and participate in team\\-building efforts.
+* Contribute to OP technical discussions, peer reviews, etc.
+* Contribute content and collaborate via the OP\\-Wiki/Knowledge Base.
+* Provide status reports to OP Account Management as requested.
+
+
+**About Us**
+ OP is a technology consulting and solutions company, offering advisory and managed services, innovative platforms, and staffing solutions across a wide range of fields — including AI, cyber security, enterprise architecture, and beyond. Our most valuable asset is our people: dynamic, creative thinkers, who are passionate about doing quality work. As a member of the OP team, you will have access to industry\\-leading consulting practices, strategies \\& and technologies, innovative training \\& education. An ideal OP team member is a technology leader with a proven track record of technical excellence and a strong focus on process and methodology.","Motor Vehicle Manufacturing","https://www.linkedin.com/company/orangepeople","https://media.licdn.com/dms/image/v2/D4D0BAQFnxOaKzxjhig/company-logo_100_100/B4DZWlGkQWHIAU-/0/1742231717318/orangepeople_logo?e=2147483647&v=beta&t=mT5AxzBsgm6RvmeysaWrcSF7xmqkBnNXwh0DLvVKOY4","","","","","","","","","","",""
+"li-4360061934","linkedin","https://www.linkedin.com/jobs/view/4360061934","","Functional Tester – US Healthcare","Awign","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**About the client:**
+ US\\-based AI\\-first software engineering and digital transformation company that helps businesses build, scale, and modernize technology using advanced engineering and AI.
+   
+
+  
+
+**Job Title: Functional Tester – US Healthcare**
+**Experience: 5 years**
+**Location: Chennai**
+**Job Type: Permanent role**
+**Time\\- 3 pm\\-12 am (Hybrid)**
+**Primary Skills:**
+**Functional testing, Manual testing \\-4yrs min
+   
+
+ US healthcare (Claims or Payer or Provider)
+   
+
+ API**
+**Required** 
+  
+
+* Minimum of 4 years of progressive experience in Quality Assurance.
+* Must have significant experience in the US Healthcare domain, specifically with knowledge of Clinicals and/or Predictal systems.
+* Proven expertise in writing detailed test cases and executing System Integration Testing SIT.
+* Demonstrated experience with test case preparation using GenAI tools.
+* Strong proficiency in DB testing using SQL.
+* Solid experience with API testing methodologies and tools.
+   
+
+ Extensive experience performing comprehensive regression testing.
+
+
+**Preferred Good to Have**
+* Experience and knowledge in automation scripting, e.g., Selenium Python.
+   
+
+ Familiarity with Agile Scrum development methodologies.
+* Certifications in Quality Assurance, e.g., ISTQB.
+* Domain Certification AHM250","IT Services and IT Consulting","https://in.linkedin.com/company/awign-enterprises","https://media.licdn.com/dms/image/v2/D560BAQHA4XUxdDeicQ/company-logo_100_100/B56ZcMSh9kGsAY-/0/1748257874812/awign_enterprises_logo?e=2147483647&v=beta&t=6KaCXJptpkJgDa45CIpqxMiRR_y3UeDOOU1ii4I7T80","","","","","","","","","","",""
+"li-4362920302","linkedin","https://www.linkedin.com/jobs/view/4362920302","","Sevilla Case: Senior QA Engineer","Deutsche Bank","Pune, Maharashtra, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Position Overview**
+**Job Title: Sevilla Case: Senior QA Engineer**
+**Corporate Title: AVP**
+**Location: Pune, India**
+**Role Description**
+ Quality Assurance (QA) is responsible for ensuring testing strategies, plans and deliverables are executed for all applications and programs of work within their domain. Work includes:
+   
+
+  
+
+* Designing and conducting testing procedures and frameworks to verify software and other technical products to ensure expected functional performance Investigating instances where software and technical products do not perform as expected
+* Designing and conducting quality assurance practices to support business development activities
+* Driving the adoption of recognized best practice and policy and contributes to the ongoing improvement of methodologies and assets for the business
+* Working with their counterparts across the business to raise the standard of QA across the bank
+* Recording of defects and the collation of metrics and KPI information for reporting purposes
+* Testing disciplines include: Performance Testing, Test Automation, Test Processes, Testing Products
+
+
+**What We’ll Offer You**
+ As part of our flexible scheme, here are just some of the benefits that you’ll enjoy,
+   
+
+  
+
+* Best in class leave policy.
+* Gender neutral parental leaves
+* 100% reimbursement under childcare assistance benefit (gender neutral)
+* Sponsorship for Industry relevant certifications and education
+* Employee Assistance Program for you and your family members
+* Comprehensive Hospitalization Insurance for you and your dependents
+* Accident and Term life Insurance
+* Complementary Health screening for 35 yrs. and above
+
+
+**Your Key Responsibilities**
+* Accountability for overall test delivery covering all activities within Cards sub\\-domain (Programme test management).
+* Work with the testing team to develop testing strategies, plans and deliverables related to sub\\-domain applications.
+* You are involved in the Software Development Lifecycle starting from analyzing requirements, maintaining test cases, developing test automation features and testing software \\- continuously improving these topics.
+* Your primary focus will be on creating test cases, developing test automation features and execute test activities on different test environments
+* You drive development of high\\-quality and mostly automated test solutions that meet functional as well as non\\-functional requirements.
+* You actively participate and contribute into the sprint activities and ceremonies e.g. daily stand\\-up, Sprint planning, retrospectives, refinements etc.
+* You collaborate with other team members to achieve the sprint objectives.
+* Track and prepare the report of testing activities like testing results, test case coverage, required resources, defects discovered and their status, performance baselines etc.
+* Champions and participates in the activities of the broader QA \\& Testing community.
+
+
+**Your Skills And Experience**
+* Strong experience in SQL
+* Hands\\-on experience with ETL tools like Informatica
+* Good understanding of data quality and reconciliation techniques
+* Broad and profound understanding of test strategies, test infrastructure set up, Test data management experience and overall test management.
+* Strong experience in requirements analysis for test case creation and test execution of user stories using tools like Karata API Automation framework, Postman, Performance Centre, SQL developer, Quality Centre/ALM, Confluence and Jira.
+* Good to have, understanding of REST API, JSON, XML.
+* Pro\\-active team player with good communication skills as well as good English language skills.
+* Experience with Agile/SCRUM environment including agile tooling and methodology together with knowledge of cards.
+* Bachelor's degree from a college or university with an focus on IT or data evaluation and / or comparable professional experience
+* Should have experience in JAVA, selenium \\& Rest Assured tool.
+
+
+**How We’ll Support You**
+* Training and development to help you excel in your career.
+* Coaching and support from experts in your team.
+* A culture of continuous learning to aid progression.
+* A range of flexible benefits that you can tailor to suit your needs.
+
+
+**About Us And Our Teams**
+ Please visit our company website for further information:
+   
+
+  
+
+**https://www.db.com/company/company.htm**
+ We strive for a culture in which we are empowered to excel together every day. This includes acting responsibly, thinking commercially, taking initiative and working collaboratively.
+   
+
+  
+
+ Together we share and celebrate the successes of our people. Together we are Deutsche Bank Group.
+   
+
+  
+
+ We welcome applications from all people and promote a positive, fair and inclusive work environment.","Financial Services","https://de.linkedin.com/company/deutsche-bank","https://media.licdn.com/dms/image/v2/D4E0BAQHPxOQjSTf63Q/company-logo_100_100/company-logo_100_100/0/1733126326977?e=2147483647&v=beta&t=Sox1AP2RLBDINbiSLzHmDnuHDV-LTcQdBKVQ2b6mFVg","","","","","","","","","","",""
